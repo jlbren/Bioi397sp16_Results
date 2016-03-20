@@ -1,0 +1,60 @@
+>Query: 0 Target: 276494 %ID: 11/56 = 19.6429 Strand: +/+>gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+atgcagactgagggagcctggccaacaacaaaggccgagctatcttcagggttcct
+>Query: 0 Target: 2779182 %ID: 10/51 = 19.6078 Strand: +/+>gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+atgcagactgttctaggcagccaggacttctcaaactgaaacaaaataata
+>Query: 42 Target: 91840 %ID: 11/56 = 19.6429 Strand: +/+>gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gtcataaaggaggtttctcctccagtctttgctcagaagattaaacataaacattt
+>Query: 42 Target: 1910575 %ID: 10/51 = 19.6078 Strand: +/+>gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gtcataaaggcttgctggctgccagtcttgctccaggttcagtgaaagacc
+>Query: 42 Target: 1945600 %ID: 11/56 = 19.6429 Strand: +/+>gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gtcataaaggaacttcctcgatgccactcagaaggccacacaaatccctcactgga
+>Query: 0 Target: 225106 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttcagtttctactatgtcatacagggtttcttttaccagtcttaat
+>Query: 0 Target: 342038 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttccacttaaaaattttagtttagcactggggaggcagaggcag
+>Query: 0 Target: 355529 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcatagtcggtgactttgatttttaactatttaaaaatctttt
+>Query: 0 Target: 709841 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcctctatttaatgtgtatgggtgttttgttttgttctaaaga
+>Query: 0 Target: 861187 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttcctctgaaggaatcttgaggaggacaagttgagagaaggaagca
+>Query: 0 Target: 1062748 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttcagtttttactattttatacagggtttttttttaccagtcttaa
+>Query: 0 Target: 1182718 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttgttttgagacacagtatccctaagtgacccaggctggccttgaa
+>Query: 0 Target: 1244293 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttctacccttccccagctctcctttttattttaccctttcaacacc
+>Query: 0 Target: 1394316 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcagtagcatgtctcataaattccttccaaaatattaaagaca
+>Query: 0 Target: 1765471 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttaatttaattcttctaagttgacttttctttcctcgatgctagtt
+>Query: 0 Target: 1780880 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcatttacatttgaaatgccaatcaaggtagagaccttagtag
+>Query: 0 Target: 1836660 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttctttagtccagtgattctcaaccttcctaatgctgtgaccctttaac
+>Query: 0 Target: 1956480 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttctttctttttcttttcttttcttttcttttttttttttcaagacagg
+>Query: 0 Target: 2081673 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcctgtttccgacagttaatcagacatccaagcccgtggtgag
+>Query: 0 Target: 2111280 %ID: 12/61 = 19.6721 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttctccttcctcctggacatcagccctctccctccctgcctccttcctttccag
+>Query: 0 Target: 2292589 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttttttaatgacaaccctccaaagtttgaaaaaaaaatcattttta
+>Query: 0 Target: 2430301 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttccttgcaaagcctggcacatccctcttctgtatctctatggc
+>Query: 0 Target: 2979512 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcgttctgtttttcttttttttttttttaagatttatttattt
+>Query: 0 Target: 3022686 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttttttttaaatttattgattatatgtaagtgcactgtagctgtct
+>Query: 0 Target: 3045783 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcttttttgacagacaagatgtttaattccgttgtactgaaggaaagc
+>Query: 0 Target: 3208444 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttcatttttacagattttatttattcatattatatgtatagatg
+>Query: 0 Target: 3501701 %ID: 11/56 = 19.6429 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+gttttctttctagaatgtagggatgtgtgtgtgtgtgcatgcatgtgttgactata
+>Query: 47 Target: 161811 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+ttagaaattatccttaagttctgtgactctagagaaccctgactaatacag
+>Query: 47 Target: 167714 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+ttagaaattatccataagttctgtgactctagagaaccctgactaatacag
+>Query: 47 Target: 2259038 %ID: 10/51 = 19.6078 Strand: +/->gi|150006674|ref|NC_009615.1| Parabacteroides distasonis ATCC 8503 chromosome, complete genome
+ttagaaattacaagtttcagtaatagctgaacctctgtttaaaatgttaat

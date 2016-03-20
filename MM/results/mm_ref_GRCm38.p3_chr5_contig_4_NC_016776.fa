@@ -1,0 +1,76 @@
+>Query: 0 Target: 1557261 %ID: 10/51 = 19.6078 Strand: +/+>gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ttatcaacactcgctcagaaatagtgtcttttcagaaagctgcgtgcctgt
+>Query: 0 Target: 2006382 %ID: 11/56 = 19.6429 Strand: +/+>gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ttatcaacaccagaaatttacacttaaaaaagttctactcagacactagacacact
+>Query: 47 Target: 454773 %ID: 10/51 = 19.6078 Strand: +/+>gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taacagaaacactgcccctataattacaactaaatttccttcaaattgagc
+>Query: 47 Target: 1097299 %ID: 10/51 = 19.6078 Strand: +/+>gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taacagaaacttcttaccaaaaagaccttcagtcctcatttgaggtgaccc
+>Query: 47 Target: 1116879 %ID: 10/51 = 19.6078 Strand: +/+>gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taacagaaactacagtggcagatgggaaagtacttcagtgctagagcatat
+>Query: 0 Target: 833321 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+cggtttaaaaataagaaatagcactctaagaaagataaacttagggaggga
+>Query: 42 Target: 1394781 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ctaattcttggaaagacttggggaaagttacttttaagtttgtttaggttt
+>Query: 84 Target: 135759 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+atatgaacaatctgtgaaactgatacaaaaatcgggtcctgatgaagatctcaaaa
+>Query: 84 Target: 434653 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+atatgaacaattggagaacctggctcaaacagggtgaaaggtatggctagtgccca
+>Query: 84 Target: 916020 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+atatgaacaaaataccacaattaaataatcagttggtatttgacattttaa
+>Query: 84 Target: 1388343 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+atatgaacaacgggagtggcggattctctgtcacatcagagggcagaaggt
+>Query: 84 Target: 1514154 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+atatgaacaaatctctctctttccaaaaacactgtgcacttctttaaaaag
+>Query: 126 Target: 1163780 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+acttcaacagccccttggggtagatgctggaggaggcaggccaaaggcaag
+>Query: 126 Target: 1200254 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+acttcaacagccacagccaggtctagtgaaaagcaggctctcatgtctgag
+>Query: 168 Target: 582482 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgattatgaaacttctttatagccaatttgatatcacatagt
+>Query: 168 Target: 873095 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgctgcagaagattccggtttgttgcgctcttcctggccggt
+>Query: 168 Target: 1007385 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgccgcagaagattctggtttgttgcgttcttcctggccggt
+>Query: 168 Target: 1009731 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgccgcagaagattctggtttgttgcgttcttcctggccggt
+>Query: 168 Target: 1324930 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgccgcagaagattctggtttgctgcgtctttcctggccggt
+>Query: 168 Target: 1329238 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttgccgcagaagattctggtttgttgtgttctttcctggccgg
+>Query: 168 Target: 1329879 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttatcatccatgaagtatatctttctatttacttgattttttt
+>Query: 168 Target: 1757726 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttaaattctgttgatggcaggaaactgttacaattgtccaaca
+>Query: 168 Target: 1812097 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ataaagttttcccatttttacctcacctccaaagaggacctcattattaag
+>Query: 210 Target: 349324 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+aagttagcaaatgaagacacagtgagaggtaggccatttcctgaactgctg
+>Query: 210 Target: 794451 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+aagttagcaaaagacgtttactcaaaaagagtgagcccaaaaggcctccag
+>Query: 210 Target: 1215198 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+aagttagcaaacactagagagcagagtgtaagtagttatccagaaagtcaa
+>Query: 210 Target: 1268458 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+aagttagcaagtaccagagattctcctgtctccaggcacactcaggacacc
+>Query: 252 Target: 127596 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taaactgatttacacccaatggtgaagctttagaatgcttaaaacctcacc
+>Query: 252 Target: 181437 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taaactgattacaaggctttggctggcacttgggctaggctatgtctttgggatag
+>Query: 252 Target: 538213 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+taaactgattgttagacaacatacacagatatagaatgtgtttcaaatact
+>Query: 294 Target: 105169 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ggcaagaaaaaagaatctgggctgctattcctatataaactgttttctacggaacc
+>Query: 294 Target: 178156 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ggcaagaaaacacacagaacaggcgtcagagtcagccacattgctgggctg
+>Query: 294 Target: 866366 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ggcaagaaaaataatgcgtcagaaagattgtgtgagggagctaggaatgagaaagg
+>Query: 294 Target: 890007 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ggcaagaaaagtgatgccgggacggcatgtgactgtcacgagggctttgct
+>Query: 294 Target: 1438693 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+ggcaagaaaaaaaaaaactaaatatgcaaaggcatttggcagggtaatattttcca
+>Query: 341 Target: 680958 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+tcactaacaacaagtgacaatgaacgctcatctggatacacagccacacca
+>Query: 341 Target: 854137 %ID: 10/51 = 19.6078 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+tcactaacaagctatattcttgtccccttcacattccagagtgcctcactt
+>Query: 341 Target: 1821596 %ID: 11/56 = 19.6429 Strand: +/->gi|375356399|ref|NC_016776.1| Bacteroides fragilis 638R, complete genome
+tcactaacaaaacagaaaaccaacatcctagtaaataagttaaaaaaattgtatga

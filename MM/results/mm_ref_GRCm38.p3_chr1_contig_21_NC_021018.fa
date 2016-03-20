@@ -1,0 +1,354 @@
+>Query: 0 Target: 3009216 %ID: 11/56 = 19.6429 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gaataaaacgttttgttaatgatgcaactaggtaatttttcatgtaactctgtaat
+>Query: 0 Target: 3597457 %ID: 12/61 = 19.6721 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gaataaaacgtatccctttaggaaacctaatgaagaacccctgagtgccatctctattgca
+>Query: 52 Target: 398940 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tgtatataggcatagaggtataaaatgtcaatatgtatttatatgtgtata
+>Query: 52 Target: 1606008 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tgtatataggtatatcatacatctacctccttggtgcctgcagaggtcaga
+>Query: 52 Target: 2258649 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tgtatataggactgtttataaaatgagttactgcagttaggaagaagagtt
+>Query: 52 Target: 2435165 %ID: 11/56 = 19.6429 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tgtatatagggatggataaagttcttttcccaacctgtaggctgccattttgtcct
+>Query: 52 Target: 3144518 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tgtatataggctagttgctctcctctaaaacattctaaccaatattagctt
+>Query: 94 Target: 368162 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttgggaagtagcaatttctgatgagtcaggataagttagtcacat
+>Query: 94 Target: 371073 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttggcatgtattaatgccttatgcaaatgagtaagccaagaatgc
+>Query: 94 Target: 2670394 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttggatacaatctagaaaacataaagactcctgcctaataaatga
+>Query: 94 Target: 2915789 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttggaaataaagaattcatagaactaagtgcctacatgaaggagg
+>Query: 94 Target: 3098674 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttgggctaatattaatttatcagtgagtacataccatgagtgttc
+>Query: 94 Target: 3399658 %ID: 12/61 = 19.6721 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttggtgctcgacttctgttgcttcaagataaaatctgatatggcagaacaaaggc
+>Query: 94 Target: 3436488 %ID: 10/51 = 19.6078 Strand: +/+>gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaacttttggcattattatttctcaaaatacctttgatgccccttgcctag
+>Query: 0 Target: 555336 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaattttctgttgggccaccttcgcaggatgctagatcttctcaata
+>Query: 0 Target: 1028711 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttacaaaggagcaatacttgcttatagcattagacagctgagt
+>Query: 0 Target: 1351250 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttcttaagctggacattttctttgtacatttatttatttacat
+>Query: 0 Target: 1573876 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttggtatttctccattacccattccaaatctcactgtgtaagctttac
+>Query: 0 Target: 2012445 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttgtgtagttaggtaggcaagataatgttcaaaaaattaaaaagtgta
+>Query: 0 Target: 2043520 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttacttttatctcctcacttagaagcagatcatatgatagggt
+>Query: 0 Target: 2071070 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttccttaatattatttgtttctcaccggtatacttttctcttc
+>Query: 0 Target: 2281510 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttgctaaacacatgaaactcaagaagaatgaagactgaagtgtggacactatg
+>Query: 0 Target: 2552866 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttgtatccccattatctctttttgttgtcgaatttctctggctaggac
+>Query: 0 Target: 2814644 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttaataaccgttaaagacatatgaatggaaaagctatgaatga
+>Query: 0 Target: 2868223 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttaaaagttcaataacaatagtatattaaaatatatattaaat
+>Query: 0 Target: 2940218 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaattttgttgaatgtttcagctgtgtacacagtgtgagcctgaaca
+>Query: 0 Target: 3186082 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttttattaggtatttacttcatttacatttcaaatgctatccc
+>Query: 0 Target: 3421030 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaattttagaactgtactaagagatgtaagaaaatctacaccctttc
+>Query: 0 Target: 3537357 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttaatctataaccattattgaataaataaaactgaagaaaaga
+>Query: 0 Target: 3679081 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaatttatctttcttttgtctcagtaagggtgaggcccttgggccac
+>Query: 0 Target: 3712896 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tttacaattttaaaactgtgactcaaggagaagcaaggtgcatgcctctaa
+>Query: 42 Target: 1360853 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+caatttgagccagccatttattaaccatagcctccttttctgctctatctttgtcc
+>Query: 89 Target: 55542 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttaattaggtattttccttgtttacattttcaatgctatccc
+>Query: 89 Target: 95757 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttcttacattctttcttcctttttgttgatgtaaaatgcctcc
+>Query: 89 Target: 665186 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttaatgatctgtggtttcaataccccaaattttatttctagt
+>Query: 89 Target: 719840 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttggtttgctattttgaactgttatccctttcataaatgatgtttgaa
+>Query: 89 Target: 759528 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttattgtattttattttttgctattggtcttctgactgaatgt
+>Query: 89 Target: 763301 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttgaaacctttatatgatgccattatgaacagaacatgattgataaat
+>Query: 89 Target: 778214 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttcatgttgataatattagcatgtgtgggtcagaaattagctc
+>Query: 89 Target: 793191 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttaaaggtaagtaaaattttaattcccagaattgaacatatac
+>Query: 89 Target: 980524 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttttatgaatgtgggtgccctggcatttggagcatagatgttc
+>Query: 89 Target: 1605119 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttaggaaaagcattgctatgatgaaatatatgtcaaaacctg
+>Query: 89 Target: 1728291 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttttatttctctgttaaaatatctgtggactgagctagagtg
+>Query: 89 Target: 1732453 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttattagatattttctttatatacatttcaaatgctatcccga
+>Query: 89 Target: 2023496 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttaatgcatgcaaaatgtatcttttgaaaaataatctaacaca
+>Query: 89 Target: 2121584 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttttgttttgttttgttttttatttatttttttattttgttct
+>Query: 89 Target: 2319045 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttgcagcacaactcaggtttaaatggaatggaatttaaaggt
+>Query: 89 Target: 2647833 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttatttgctttaactaagctgcagactagaaggttttcctgtg
+>Query: 89 Target: 2697985 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttacatggaaataagaggagctcagcctatggctgtttgtctc
+>Query: 89 Target: 2698712 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttcacacacatctttaaaattccctagatatcaattatgcaac
+>Query: 89 Target: 2828248 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttttaaaaatgtttaaaagctcagtccacccatttagctcctt
+>Query: 89 Target: 2841488 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttattaggtattttcctcatttacatttccaatgctatcccaa
+>Query: 89 Target: 2881290 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttgaagtcacaatatctgacatataatggtcaaatattgcctatttct
+>Query: 89 Target: 2937497 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttatttataacatttcagatgggtgaaaagttccaaagtgtat
+>Query: 89 Target: 2977708 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttgatccatattgcatttgttttgcttgtgaatcttttttggaaaaaa
+>Query: 89 Target: 2996397 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttaattttaattataggaaaattgtcacaattgtcctttctta
+>Query: 89 Target: 3007229 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttttgcttgagttagtcgtgcaactgtattaaaatttactttt
+>Query: 89 Target: 3019206 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttaaaaatctatattttaagacaaataccttattttatagga
+>Query: 89 Target: 3123608 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttacttgatattgaggaatgtgttatttatttcagaaccaaaa
+>Query: 89 Target: 3230624 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttcttctgatttttttattcggtattttcttcatttacattt
+>Query: 89 Target: 3298484 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttcctctatattaacatctctctagttattacttatccaataa
+>Query: 89 Target: 3302309 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttatccttaatcttttttttcagttcaatcattatccccctcc
+>Query: 89 Target: 3363167 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttaaaagattaaagataattttaaaatataatcttaaaaacaa
+>Query: 89 Target: 3403656 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaattttttttaattaggtattttcctcgtttacattttcaatgctatcc
+>Query: 89 Target: 3501884 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taaatttttttaaatcttattcttcctttagaaagctatgatgataatata
+>Query: 131 Target: 1876215 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+cggagaagaggagaataaacagaatgttcaggcatgcaatatgctaaatctttaaatagta
+>Query: 183 Target: 6631 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatctcttggtgttagcaaaataatggtgtaacgttaatttttt
+>Query: 183 Target: 157565 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattagggtttttttgttttttgtttgtttttgggtttttttgt
+>Query: 183 Target: 522330 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatggtacatttaatgagattaattttaagagaagacttaagta
+>Query: 183 Target: 687713 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatttatttttcccttgccaggtggtctggatgtcctagatttc
+>Query: 183 Target: 690865 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatacctctacttaagaaaatgccccacaggcttcgcccaaccctgatc
+>Query: 183 Target: 692504 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattctagaaaacaggagggagatattagaggggaaaagatgca
+>Query: 183 Target: 832381 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatctgtcactaatgatctcactcttcttgttgccatggtttgc
+>Query: 183 Target: 1091875 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatgaggaaaacaataatatatgagtaaaaactgtaatttatac
+>Query: 183 Target: 1696711 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatggtgtgaagcaagcagtaagatttattgccttcttgtctct
+>Query: 183 Target: 1830649 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattattattattattatttaattttttattagatattttcttc
+>Query: 183 Target: 1856928 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattgtcaatgttcataaacattttacattaatcctagtattca
+>Query: 183 Target: 2259430 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattagaagagtactaatatgtctgtgtttggtggttgattatg
+>Query: 183 Target: 2268689 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatgaaatcggagaaactaatttgggctccaggatcattagaag
+>Query: 183 Target: 2269872 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatgaattattttatttgcatactaacctctttccccctacccc
+>Query: 183 Target: 2318652 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattaaaatgactctaagagtcaaggtagcaaaagataaaaatc
+>Query: 183 Target: 2400181 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatacttaaatgttattactgtagctgtatcttaaggtggttcgatgct
+>Query: 183 Target: 2628100 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatatagatgttttgtctgcatgtttgtctgagtaacatgtgtctgtctggtac
+>Query: 183 Target: 2688658 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatgttgtctcttttattaattttatttgacattctcagacatg
+>Query: 183 Target: 2832572 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatatatgctactatgcttttttcaaaggcaaaagtgtattgtatggtttcaaa
+>Query: 183 Target: 2964188 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacattgtaaattaatataaaatgtccggagcaaagcttcattctc
+>Query: 183 Target: 2964361 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacataatgaattgcgaatagaagctatctttatcaaacactgaaaaataa
+>Query: 183 Target: 3086349 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatacgttctcttatagccaacgctggctactaacttaacttgctgaat
+>Query: 183 Target: 3113503 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatgtacaaaattatcaaggacccactttagtcaataataaaag
+>Query: 183 Target: 3205268 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatttgcctctcaaagcactgtagaatcatgggtgtcttaaatg
+>Query: 183 Target: 3328880 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacataaggaagaccccgaacccggaaaatggcgctgcttatatagcctgc
+>Query: 183 Target: 3339199 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatttccatattcataaaatcgctattgttctatgactaattct
+>Query: 183 Target: 3714865 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacatagaaatttttttccaaaatatctcgtcacctttctttcatggcttt
+>Query: 183 Target: 3744245 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+ttttatacataataaaaatgttcccaagaccaagctatcttaacttttgagtatag
+>Query: 230 Target: 88998 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattagtaataaaaggcttttcttgactgagagacacatcagctatgaca
+>Query: 230 Target: 254292 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttatttttttagatgcttcataaggaaaatttaaatggatttcttt
+>Query: 230 Target: 316669 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattacataaggctcagaagttctgagctattacctgtggtttctacagt
+>Query: 230 Target: 350588 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattgagtagcctcaaactcaggctgccttgagctgcacctacca
+>Query: 230 Target: 472483 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattcttcactcagtaaatatttaataactacttgggtcaataaa
+>Query: 230 Target: 835144 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattgaactaaagcaaactacaaatacacattgcaggaactttag
+>Query: 230 Target: 880029 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattttggtaactgttgttgacagtgcttgttatagatttctgtc
+>Query: 230 Target: 1099594 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttatttaaccataaatcaattaatcacattgacatcaaccacagaa
+>Query: 230 Target: 1910950 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattatagtttgaatctaacatatcctccaggggcctatgtactgaagtt
+>Query: 230 Target: 2399803 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattaaattgctttgaaaacatcaaagacagaaataatcactcccaatctgtaac
+>Query: 230 Target: 2838668 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttattatctaaatggtgtttgccatgttagactattcagatttctgagatt
+>Query: 230 Target: 3652403 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agatgttatttgccagataacctccatggtctctacaagtctactgaattt
+>Query: 272 Target: 718457 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtctagtaaaaggagcaggtgatgacttgtcttcacagacagt
+>Query: 272 Target: 1360832 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtgacatggctctcaatttgagccagccatttattaaccatag
+>Query: 272 Target: 1411432 %ID: 12/61 = 19.6721 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtaccagcagcagatcagcagcttctcaggaagtcctccagagtcttgagtgc
+>Query: 272 Target: 1490477 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtgggatggctaacacttaacatatggagccctctctccctag
+>Query: 272 Target: 1920492 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgttctggggtggagaatgagttgtctgtctgttacatgtattt
+>Query: 272 Target: 2139714 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgttttcattaatttgctgctttctttaggagaataagccaggt
+>Query: 272 Target: 2369395 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtcccagaaactgctggcctctgtattctgcacccttacccgt
+>Query: 272 Target: 3638598 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+tcttgcctgtcttcctcttgttttaaatgagagcaaaatatagaaacgttc
+>Query: 314 Target: 135162 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttattaggtattttcctcatttacatttccaatgctatccaaaaagtc
+>Query: 314 Target: 173360 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttccagaaaatcaatattggggagaaaaattttgtaatcacaa
+>Query: 314 Target: 287154 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttttttatttttgagataggttctcatatagtccaagctagc
+>Query: 314 Target: 360631 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttattaggcattttcctcgtttacatttccaatgctatcccaaaagtc
+>Query: 314 Target: 370406 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttcaaatcaaattctgttttttacaattcagttgcgctcatt
+>Query: 314 Target: 371644 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttaattttcatggtcatgatattctttcaagactctgctaa
+>Query: 314 Target: 436542 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttctttgaacaaaatggttaaaaacaggtgtttctcttatg
+>Query: 314 Target: 474721 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttcatacaatatattttgatcctggtttccccttcctcaaat
+>Query: 314 Target: 503958 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttctggggagatgcaatacaaacttctattcaccatagatag
+>Query: 314 Target: 508883 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttaagccttgatcttataagacaaaaagctgtatatgttttc
+>Query: 314 Target: 589992 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcactaatttcaacaacttaattacttaagaattagtttttg
+>Query: 314 Target: 673497 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttctatttttatagttaatagtgctgccagtgggtttttgtc
+>Query: 314 Target: 680232 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttaatgttgtttttcacaaaattcaaagaatattcatttctg
+>Query: 314 Target: 730251 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttatttttatttttttattttttttaatgcggtcaagatggc
+>Query: 314 Target: 806929 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcaattagatgttcttttttgtttaaggggataagggcatcc
+>Query: 314 Target: 922448 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcctccacattctaaagataagcactgctttggtaatagatg
+>Query: 314 Target: 973093 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttcaatctgaaaatctgttatcactggtcatcttgagttact
+>Query: 314 Target: 1096048 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttacacaccaattggaaacttctactaaattgcacaaatgc
+>Query: 314 Target: 1180078 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttacttaagaccaatgtcatttgagaatggaatggctatttaatatga
+>Query: 314 Target: 1241816 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttttaattttttactgctattttcacgttcggacttcttcc
+>Query: 314 Target: 1257376 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttaaaaaaagaaaaggattaatcaagagaggccagttggggg
+>Query: 314 Target: 1326926 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttttgaggtttaggcaacttcccttttcctctgattttagc
+>Query: 314 Target: 1525090 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttttttagctttgtactgtagttagagtggagatatgtaaca
+>Query: 314 Target: 1542634 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttgaaacattgactcttttaaatgtgatctcaaactgagagcc
+>Query: 314 Target: 1574287 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttggaaaggagattggaattagagtattttaattgttagtct
+>Query: 314 Target: 1747610 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcagtatgtggcagtggctgaacccatatagaaaatttcact
+>Query: 314 Target: 1775476 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttattagatattttctttatttacatttcaaatgctatgccaaaattt
+>Query: 314 Target: 1919977 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttataaatccaaaattgttacaaaataaaagtttatcaaag
+>Query: 314 Target: 2052241 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttttgctaggggatatgagtgttatggctaagacgaggcca
+>Query: 314 Target: 2176892 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttccctaatgaatcataattgctgtaactattttcttttctac
+>Query: 314 Target: 2317219 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttttgttctcaaattgctccatctccaattaaagctctctat
+>Query: 314 Target: 2607104 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcaggtcggattacaattatggtttttttttttttttttttc
+>Query: 314 Target: 2719411 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttattgaatattttcattttaaatattatcccctttcctgctcatccc
+>Query: 314 Target: 2789854 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttcaagaaagcccaagggaactacctgctcctgtgttgggatt
+>Query: 314 Target: 2838496 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttttcttctattcaggccattttggacatatggtaggatcatt
+>Query: 314 Target: 2898376 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttatattttaaaatataaaaaataaagggaaatagaaaaaaatgacac
+>Query: 314 Target: 2918559 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttaccgcatgaaatttatattaaaaaatctattgtacagtagttttca
+>Query: 314 Target: 2923694 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttaatttatttcattgttcaaaaatattatcttcactgggtattttgt
+>Query: 314 Target: 3064869 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttctcatgcaataaaaactataccacatattaggtaaaattta
+>Query: 314 Target: 3088793 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaatttttttaatttatttattaatttattaaatttttattaaattactt
+>Query: 314 Target: 3241586 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttgaagaatatcagtattttgagttaatatatactttcagatt
+>Query: 314 Target: 3460606 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttgcactaaatcataaaatatatttccttagaagaagaaaagg
+>Query: 314 Target: 3516559 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttaaaatcaaactgaaatgtatgtgcgtgtgtttataaaattgcctca
+>Query: 314 Target: 3708951 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+aaaattttttaaagggcacacatgcacactacacatacttatttacatgtacacca
+>Query: 361 Target: 652663 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taggtgattgtgtggcactcaacatggacgataggaactgaacttggattttctga
+>Query: 361 Target: 884453 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taggtgattgtttgagggaagcttgggctccctagcaagacactatctaaagtaaa
+>Query: 361 Target: 1634931 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taggtgattgagtgcaatctgagagcatcaagatccttcccctttgtctcc
+>Query: 361 Target: 2600205 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+taggtgattgggagttcagccattggacaattaacattctttaaggaaagt
+>Query: 403 Target: 509675 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggttattcaaaactaattttggaaaataatcagcaacaacatgag
+>Query: 403 Target: 739346 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggttaattttcaaaagagcttagtatcatatgctttattcagaat
+>Query: 403 Target: 773456 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggtttcgtagctttttagactacatgacaatgttgacagctgcttatcta
+>Query: 403 Target: 2220913 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggttggtttcttctatcaccttcatgccactatttcatcagtggc
+>Query: 403 Target: 2238838 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggttactcagaaagactttttcaaaaaatataattggtcattttt
+>Query: 403 Target: 3737382 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+agaaatggttcaaagtcatgtagcttgtaagttttgaaattttaacataac
+>Query: 445 Target: 3447 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgatgactctttcggatccagtcagatgcctcagaggagtgtct
+>Query: 445 Target: 297058 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgatttctgcatctactatttcaattactttcttttttattaat
+>Query: 445 Target: 392663 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgaagaatattgcatttctttgctttttataattttgtcacttc
+>Query: 445 Target: 817702 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgaagaaaaccttgtgtccaagttgctagaataagtataagcag
+>Query: 445 Target: 1346572 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgagggaaattttgaacctaggagcataaaatctattgcgaaagataac
+>Query: 445 Target: 1939773 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgactttttgcatatttgcatatttgacagaatcaagcagggca
+>Query: 445 Target: 1985549 %ID: 11/56 = 19.6429 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgagctccctgggtctggagttacaggcagatgccagctgtccagtgag
+>Query: 445 Target: 2190630 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgaaatattcagaaaacatcactagcaggtgacatttgaatttg
+>Query: 445 Target: 3638837 %ID: 10/51 = 19.6078 Strand: +/->gi|479166807|ref|NC_021018.1| Coprococcus sp. ART55/1 draft genome
+gagtgtgtgaaaacatgttcaccatgcttgtcttgaagaagagactaagct

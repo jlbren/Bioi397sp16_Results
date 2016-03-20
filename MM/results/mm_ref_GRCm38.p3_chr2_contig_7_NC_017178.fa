@@ -1,0 +1,388 @@
+>Query: 0 Target: 50762 %ID: 13/66 = 19.697 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagtttagtaaaatctgattggtgggtgttcaatttgggcaggttagctagaaccagtt
+>Query: 0 Target: 412667 %ID: 10/51 = 19.6078 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagacacctgtcagaaggctcaccctgagggcctcatttaacgc
+>Query: 0 Target: 1942152 %ID: 10/51 = 19.6078 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagcgccccactctccaccctcaaacacaagtccccagaccctg
+>Query: 0 Target: 3414366 %ID: 10/51 = 19.6078 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagctcctgattgacaacaaataaggttgacctttggcctctat
+>Query: 0 Target: 4066801 %ID: 10/51 = 19.6078 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagatagatagatagatagatagatagatagatagatagataga
+>Query: 0 Target: 4163947 %ID: 11/56 = 19.6429 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggatatagtgatactgaaattgtattaagactataaatataaaactcttgccaa
+>Query: 47 Target: 10731 %ID: 11/56 = 19.6429 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgacttaactttggtacctggtatctgtctagaaatttgtccatttcacccaggtt
+>Query: 47 Target: 1821441 %ID: 11/56 = 19.6429 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgacttaacttaaatcagagatggctccattggtaagggagggggcttgctgcaca
+>Query: 47 Target: 1828852 %ID: 11/56 = 19.6429 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgacttaactttgtttaacctttctgagccctgggttttgctttctacagtgtata
+>Query: 47 Target: 3718587 %ID: 10/51 = 19.6078 Strand: +/+>gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgacttaactgcagttaaacattttatttgaaatttcctttatgtactggg
+>Query: 0 Target: 93192 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaaccatctcaaataggcttagttttttaaagggtagatacagtta
+>Query: 0 Target: 376463 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaaccatctcaaataggcttagtttctttaaatggcagatacagtt
+>Query: 0 Target: 872497 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaacctgtccagtgtgtgttagcaaggcctgagagacaacattcaagctat
+>Query: 0 Target: 1666464 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaaccctgagggtctgtgtctccaccctccttcacagccgcttggc
+>Query: 0 Target: 2360574 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaaccctaagacagtataattatgtgtgatactgtaaatgattttc
+>Query: 0 Target: 3188906 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatataaaccacacatgctttcaaagctacttcctaaaacacaggaggtgt
+>Query: 42 Target: 826976 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaacagtttgctgttctgccaatgtcctcttctgtccctttggccta
+>Query: 42 Target: 1542370 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaacaggacagatatgcaggctgtaaggatcaagaaataaggcatgg
+>Query: 42 Target: 3500307 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaacagtgtagttccctggtgagaaattattcttcagctatctacag
+>Query: 42 Target: 4132638 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaacagagtaacacaaagctatatagaggtcttccataaactgcactatgtt
+>Query: 89 Target: 43721 %ID: 14/71 = 19.7183 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggataatttatgtccaacataattatggattataatttttataatttatggatgattctggatg
+>Query: 89 Target: 43770 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatgattctggatgactatgaggtaagaatgcccttcaatatctcagc
+>Query: 89 Target: 50757 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatatagtttagtaaaatctgattggtgggtgttcaatttgggcaggttagct
+>Query: 89 Target: 182424 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatgattctggatgactatgaggtaagaatgcccttcaatatctcagt
+>Query: 89 Target: 308553 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatggttctggatgactatgaggtaagaatgcccttcaatatctcagt
+>Query: 89 Target: 340819 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatgattctggatgactatgaggtaagaatgcccttcaatatctcagc
+>Query: 89 Target: 905664 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggaagttgggcaatttggacggaggctttacagaccagagcaac
+>Query: 89 Target: 910773 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggaaatatattagtgaatttcccgatgtaactgaaaggtctaaa
+>Query: 89 Target: 1317420 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggatcacgtaggaagtaagagatcgttagaaaaaaagaaatgggtggat
+>Query: 89 Target: 1339299 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggaaacacctgtcttatcaaccaatcatgatcttctagcacacc
+>Query: 89 Target: 3828974 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttatggaagggaaggtatacctaaatgtagttaagcaccatcccgtag
+>Query: 131 Target: 21504 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaaattgtgaatgcagagttcttcctgttttttttcaaatatgtgaataaccttttaa
+>Query: 131 Target: 290811 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaacatttacttggggctagcttataggttcagaggttcagtcc
+>Query: 131 Target: 398033 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaaaattggcaatgttccttctattttgtgggataattttaaaagtattgata
+>Query: 131 Target: 433453 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaataaaaactacatgctttatgaaaacagagtctgaaaacttg
+>Query: 131 Target: 671911 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaattaattctccaattgctgacctggcttaaatataaaatgct
+>Query: 131 Target: 681116 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaattattacatgagagttaacatttcttgattagaaagtattt
+>Query: 131 Target: 691798 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaatgttaaattgcttaggcattttaagattactacataaggcc
+>Query: 131 Target: 753880 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaatattttttgaggcaaggtcttgaactcatggtcactagact
+>Query: 131 Target: 792453 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaactgtcttctctgcctcagactaattgcttatggtccatgag
+>Query: 131 Target: 1042208 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaataaacagctcttgaaggactttcccagcagcctgtatctaatccg
+>Query: 131 Target: 1947529 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaactcgcaaattatgacatcatctcctcatctgtagcagggat
+>Query: 131 Target: 2290700 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaattcaaaatagaaaagttaaagggacagggaaatgtctcagc
+>Query: 131 Target: 2489632 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaaaaaaaaaagccaagcccagtgtggtggggcatgcctttaatcttggcagt
+>Query: 131 Target: 2680750 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaactcaggcaactctggtattaaacttttatcagtgttgagaa
+>Query: 131 Target: 2977716 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaataaatataagtgttacattatactcacttctttatacaaat
+>Query: 131 Target: 3030669 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaaaagagaaagaaagaaagaaagaaagaaagaaagaaagaaagaaagaaaga
+>Query: 131 Target: 3459871 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaagatttatttatttactaatatgtaagtacactgtagctgtc
+>Query: 131 Target: 3937515 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaaaaagatgtatacgagtatactctatctgcatgtacacctgtgtgccagaaa
+>Query: 131 Target: 3951366 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaagagatttctaaatttataattctcacagtcattataatgag
+>Query: 131 Target: 4146434 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttattaaaaatactgtctgcttttcctgaggacctgggttctatttccacc
+>Query: 173 Target: 674571 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaatccacataatctcctacaatttttgtcaactcagacaaaaat
+>Query: 173 Target: 793319 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaatatctctactgcacatgagtagagtttagagtctattccacttcatg
+>Query: 173 Target: 1063416 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaatagtctcccagccaaaaaaagcccaggaccagacgggtttagtgcag
+>Query: 173 Target: 1202895 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaataattgtatttcctataaatttatttgccagggtgaaatacaaaatttagtt
+>Query: 173 Target: 1402337 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaataccagctaaggcattgcgaccagttatagaaatgagaattatattt
+>Query: 173 Target: 3700067 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaatgactgtaaacatccattgggtgttaagaatcaaacccaagt
+>Query: 173 Target: 4293413 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+agttataaataccaattaaggccacgtaaccagttgcagaaacgaggattataaag
+>Query: 220 Target: 844107 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tattgtcagttccaagtcagctgccccggcttgtttatctgaagcgaggat
+>Query: 220 Target: 3050356 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tattgtcagtctgtgttagctctccaccccaagactagatgggttcatcct
+>Query: 220 Target: 3996763 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tattgtcagtaaaggcaactccccactctgctatctagctcccatacagaaattaaccatt
+>Query: 272 Target: 1057010 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaattaaatactagcgaagtgctatgtggcaaagcagctgcctct
+>Query: 272 Target: 1352853 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaatcaatctcagtgtgatgtgtccattttttttctgggtcaatc
+>Query: 272 Target: 1556557 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaatggccaagaaacgtttagagaaatgtttaacactcttagtca
+>Query: 272 Target: 2282100 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaatgggatctcatgaaactaaaaatctgcatagcaaaggacact
+>Query: 272 Target: 2360320 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaattgattgatatgcttggcccaggaagtggcactgttaggagg
+>Query: 272 Target: 4071694 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aatttctaatcaagactctgcagctatctgctcagctctctctgatttatc
+>Query: 314 Target: 99745 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttattttctattgatatcataaaacataccatagacaaaagaaat
+>Query: 314 Target: 213729 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttatttctattgatatcataaaacacaccacagaaaaaagaaatt
+>Query: 314 Target: 779530 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttattcacacaattatgcgtatgatagcatatttgataaataatt
+>Query: 314 Target: 925004 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttattcttctcaacgaagtttaaaatgctatcatcagactgcaga
+>Query: 314 Target: 3655626 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttatgtgaacataacgtgtataatggacatatgaaatcatacacc
+>Query: 314 Target: 3760980 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttatttttgttttcccatatcaattgtagatctttaaaggtagag
+>Query: 314 Target: 4043938 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gtatatttatgtgtatttatacttatgtggatgtttctatgtatataagtg
+>Query: 356 Target: 1836315 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgtaactaatgctttgtgttttcttttggcttttcacaattataaattgct
+>Query: 356 Target: 2589714 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgtaactaatgctgcgtggcaagggtctggtgtcagcaggccatggtccag
+>Query: 356 Target: 2799945 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgtaactaattcacaacacaaatggacatcctggtgggccctctgatcctggccca
+>Query: 403 Target: 621136 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaactaatttgcagatatttttaagaggaaccgatcacccaggc
+>Query: 403 Target: 667235 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaaacaccctttaatattttccttcataaaataattataggaattcact
+>Query: 403 Target: 687211 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaaattttaaaatgaactttgatccttaaataaaattcaaagatactat
+>Query: 403 Target: 1639269 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaattctgtacattttatacagttattctaatatacactgggga
+>Query: 403 Target: 1639489 %ID: 14/71 = 19.7183 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaaaattgcttcttgttcttctgaaaaatggaattttacaggcttcctgtgtgttatgtggcaa
+>Query: 403 Target: 2408833 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaatattgccaggcatggtgttaaacacctttttaattccagca
+>Query: 403 Target: 2948864 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacatgttaaatttaacttaacacattaagttaaatatactaagttagtaaatatt
+>Query: 450 Target: 173182 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaagtaggcaaagatattaatgctttgataaaacaagaagatgt
+>Query: 450 Target: 300041 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaagtaggcaaagatattaatgctttgataaaacaagaagatgt
+>Query: 450 Target: 995814 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaacagaattctgaattatcttctcagtggtacatgaaacaact
+>Query: 450 Target: 1282926 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaaaggtaattcttattgatcaaatatttaaaagctggctctaaggata
+>Query: 450 Target: 1328448 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaactctctttgaggtgaggctacagtttgcttcaacatcctgt
+>Query: 450 Target: 2051777 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaagtgttattgtagggtttatctttattatttttaattatgtg
+>Query: 450 Target: 2237099 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaacttacagatattgaaaaaaaaaaaaaggtgtttacttcagg
+>Query: 450 Target: 3387353 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaacacaacagtcccttggcttccgtaaccccaggccctgccac
+>Query: 450 Target: 3577392 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaaagggacagttgagttataagccagctggagaacaagctgaagctta
+>Query: 450 Target: 3632146 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaactcctttttgttttcatagactgtcttggtatttcctctgt
+>Query: 450 Target: 4003652 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ttagaataaaaaatattgtgtttatttttgggtatgagtgtttctgctggatgtat
+>Query: 497 Target: 25824 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataataaaattgggaaaaaataaagacataaagaaaaaaagtattaa
+>Query: 497 Target: 78522 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataataatgcttccttccatatgtatcatgttccaatgtttcctatc
+>Query: 497 Target: 163730 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataataatcagaacagcaaatgcactaaatgaagatagactattaaa
+>Query: 497 Target: 290533 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataataatcagaacagcaaatgcactaaatgaagatagactattaaa
+>Query: 497 Target: 453158 %ID: 14/71 = 19.7183 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataatatatagttatataaatatgtatgtttatatagaaacaggatatgcaaatttgtgtttatatt
+>Query: 497 Target: 1507404 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataatattgataaacatacatatacatatacatacacacataggcactggag
+>Query: 497 Target: 1699533 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataatactcacttatacatacacatatgtatacacatacatataccc
+>Query: 497 Target: 1699614 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataatacacacctatatacatacacacctatatacacacatacaaaa
+>Query: 497 Target: 1978016 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atacataataaaataaatcctttaagaaaaaaggataagtagaactgtgta
+>Query: 539 Target: 2933865 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+caaaaactcgaagctaacagccttatgcagaggacctagtgcagatccatg
+>Query: 581 Target: 26044 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgttttgaggagcacaaacacgatgaaaagcagaaagcattgttttctgtctttatgt
+>Query: 581 Target: 526236 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgtatgtgcagtgtgtggtatgtttgtgagtgtgcctgtttgtgtgaa
+>Query: 581 Target: 812425 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgcatatatgtgtgtctgtgtgtattgcacatatatgtgtata
+>Query: 581 Target: 901529 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgtgttgtgtgtgtggtgtttgtgtatattatgtgtgttgtatgtatg
+>Query: 581 Target: 915637 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgcatacatgtagatatgtggatgtttgttggtgtgtacactg
+>Query: 581 Target: 1306200 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgctgaagggcttgctcggttttcagggagacgtgcttgctcc
+>Query: 581 Target: 1346214 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatggaaagacctaaaattatctatttccacatgtctggccaatt
+>Query: 581 Target: 2440911 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgggtccagaaggtgggcaggcacatggccaagcatgtgtgga
+>Query: 581 Target: 2989935 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatgcctaggaccccacttaagtcagaagagtgtcagatcccctg
+>Query: 581 Target: 3033011 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atgtgttatggggcctttaattaaaggatgtgcattttaattaaaggcaag
+>Query: 623 Target: 3665134 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aacggaaaatgtatccaggtgagatagaggtttcaggaaatgaactagtag
+>Query: 665 Target: 667439 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaacttaaacactgacgacattttaagcttgccctttatattagaacc
+>Query: 665 Target: 2647361 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaacttatttcattttataatttgtagtccatcatcagggaagtcagagcagg
+>Query: 665 Target: 2780259 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaacttaagtatctgcagatggagcagatgaccaaaggggctcctctc
+>Query: 665 Target: 2812622 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaacttaaaaatggattcaagcgcttaaggataattttatgatcattt
+>Query: 665 Target: 2954783 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaacttacaatatgtgcagtgactgaaaagcagtcattttaggatgct
+>Query: 707 Target: 659209 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagagattgtatttcatcgcctctcttggccttgtcactttagtaatga
+>Query: 707 Target: 877506 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagctctgtagagacccagagtctgtggagctgtcccttggcta
+>Query: 707 Target: 1280738 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagattccctgaagctagagctacagatggttgtgagccaccagccctg
+>Query: 707 Target: 3169040 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagatcactgagactaaatatcactatactgtgtggttttcatattaat
+>Query: 707 Target: 3341982 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagaaatcagacctctgggacactgtcccactggagacaggtctgatctggttggtgga
+>Query: 707 Target: 3487135 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+atggtttcagtttctgtctctgtccctctgcccctctgcctctctctgtct
+>Query: 749 Target: 126371 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgttaaagagacacagcatagaggttccagctttggccaaaccttttccagatctg
+>Query: 749 Target: 243342 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgttaaagagacagggcacagaggttccagctttggccaaaccttttccagatctg
+>Query: 749 Target: 364492 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgttaaagagacacagcatagaggttccagctttggccaaaccttttccagatctg
+>Query: 749 Target: 2995194 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgttaaagagcctccaacttcccccatcccttaccggaatatctaacccat
+>Query: 749 Target: 3793191 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+tgttaaagagttacagcattaggaaggttgagaaccactgttttagaagaa
+>Query: 791 Target: 1151022 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacatgactttccctgaggagatatgaacacatgtcttttcattc
+>Query: 791 Target: 1482446 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacatggataataatcacaatttccatgtgtcagaaaaatacact
+>Query: 791 Target: 1511444 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacattatttctaattaaagaagtttctagggtcaggcttcccac
+>Query: 791 Target: 1579774 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacagttaattagatgctgaacacaatgactttatgttgtaccca
+>Query: 791 Target: 1683595 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacattttaatcaacaattaattatttttaattgacaaaaaatgt
+>Query: 791 Target: 2359811 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacagagtggtacagagaggtgacttggtggttagaaacacttgt
+>Query: 791 Target: 3711431 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacatctacaacaataatattcccaaaggcagttacattctgagg
+>Query: 791 Target: 4252571 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attaattacaagctcatcaggaaacattaacaaagagaaacagtgcaagacctcag
+>Query: 838 Target: 2658350 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attacaattcaaaacagaggcaaactcactgttatgaagtagcaaggaagataatt
+>Query: 838 Target: 3244859 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attacaattcataacagtagcaaaattatagttataaagtagcaacaaaataattttatggttggg
+>Query: 838 Target: 3993116 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+attacaattcataacagcagcaaaatgacagttatgaagtagcaatgacataatcgtatgggaggt
+>Query: 895 Target: 1043446 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ggttgaaaaagccatgaggaacaagccagtaagcagcacccctccatggcc
+>Query: 895 Target: 1051861 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ggttgaaaaaccagtaccacatggacaactcttgaaatgaccaaatttggc
+>Query: 895 Target: 3558049 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ggttgaaaaactctgattaagacaaactgtctcaaaacaacaacaaagaat
+>Query: 895 Target: 4193146 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ggttgaaaaagccctgtccttccttctttatctttccattgtaaggatttt
+>Query: 937 Target: 493951 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gcaaatcttttctcaactgagctattattctagccctggaacttcattcttctatg
+>Query: 937 Target: 3815277 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gcaaatctttgaatcccaactgctggaagcagttgtttttcctgtactagt
+>Query: 937 Target: 3995853 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gcaaatctttttaactttctctcctgtcaaggcacacttacatctacacttacaga
+>Query: 937 Target: 4058781 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gcaaatcttttggtgcctggtctcaaaagatgttttggtgatgactcagtgaagccagata
+>Query: 937 Target: 4102364 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gcaaatctttgtgatttcaaggccagcctggcctggtctccatagtagatt
+>Query: 979 Target: 336130 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttttaaaaattttttaaaaggaaactatgtatgcaggaggt
+>Query: 979 Target: 1154707 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcaataaaatcaaaagtcagttctttaaaaagactgataaagttttta
+>Query: 979 Target: 1942375 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcagacttcactgttgtcaggacgggggacttgagagagagggccttgttagccagga
+>Query: 979 Target: 1978025 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcctttaagaaaaaaggataagtagaactgtgtagccccgaac
+>Query: 979 Target: 2293333 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcctcctgaagtagcttaggagatggcatggagctccttcccg
+>Query: 979 Target: 2524163 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcaaaggggtacagagagaagggatgggcttttttttttttctttttt
+>Query: 979 Target: 2761459 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctaaaaaaaaaaaaaagaaagaaagaaagaaagaaagaaaga
+>Query: 979 Target: 2993397 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttagaaaagaattcagaatttttttttttgacagagggtat
+>Query: 979 Target: 3413073 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctaaaaattgaagacaaaataaaaagagatgacatgaaatag
+>Query: 979 Target: 3423957 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttaagaagagaaacaagcaaaaatccgagaggctatgtcca
+>Query: 979 Target: 3534086 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctgatgaaaagatttaataaaagactaatatctgcccctacc
+>Query: 979 Target: 3620232 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttaaaaaaaagatgtgtgctaggcatggtaatgccttcctg
+>Query: 979 Target: 3719681 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcaatctttaaaaaaaaaaagtgtttttgcttaaaaatgtcacaaata
+>Query: 979 Target: 3725535 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttgaaagaaagaaagaaagaaagaaagaaagaaagaaagaa
+>Query: 979 Target: 3734278 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctaaaaaataataaacagaggcaggtggatctctgagttcaa
+>Query: 979 Target: 3741307 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatccttagtaattaaaaaatataaatcaaagctaaatggcacta
+>Query: 979 Target: 3904445 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatccaaacaaaacttacatagcaacataactatgcctcgcagta
+>Query: 979 Target: 4025635 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctcctttgtgctgagaacttggtcttgggcgtcctgagctga
+>Query: 979 Target: 4136370 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttcagccatcagtggtggcgcatgcctttaatcccagcact
+>Query: 979 Target: 4136579 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatcttcaaaaatttctgaaaagaatatgtttgctctcaatataa
+>Query: 979 Target: 4152589 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaataaatctggtgcatattctcttcttgaagcaaaattggagttcatta
+>Query: 1021 Target: 2413325 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaaagtagggattgtttttgtgattctaaatttatacaaaatttgtaaaa
+>Query: 1021 Target: 2437013 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaaagtaggtctactcattgatgcccgctggctgtgtgtctacagtgtcc
+>Query: 1021 Target: 3888284 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaaaagtaggacagaagtcaagagatattcagcagtgtggcattttagttgggttt
+>Query: 1068 Target: 74908 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttaccagaaagaatcggagcattataaacaatgaacagaaca
+>Query: 1068 Target: 128079 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttaccagaaagaatcggagcattataaacaatgaacagaaca
+>Query: 1068 Target: 245043 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttaccagaaagaatcggagcattataaacaatgaacagaaca
+>Query: 1068 Target: 366175 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttaccagaaagaatcagagcattataaacaatgaacagaaca
+>Query: 1068 Target: 622460 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttcctacccctctgcccaggataatggccagcggtaaacaat
+>Query: 1068 Target: 2172106 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctgaacaccaggaagcccagtagagagaggaggaggacagggg
+>Query: 1068 Target: 2691673 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctgcacaaaagatggcaggaagagcccaggatgctctcccatg
+>Query: 1068 Target: 2869714 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttcagccaccgtaaaaagcagtaatggtacagcgtcagtata
+>Query: 1068 Target: 2884743 %ID: 12/61 = 19.6721 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctacctaataacttatctcaatttcagaaagtgggaccccgaggcccccctgg
+>Query: 1068 Target: 3253070 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctcgcctcgggctcgcgcacagaggcggaagtaccgcctcgga
+>Query: 1068 Target: 3501232 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagccttgaagtagaggagtttgcttcctcctcctacagataaggag
+>Query: 1068 Target: 3667447 %ID: 13/66 = 19.697 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctacactccaagcctgaacagacaggccctcacctcagaaggctgttgttcaccccaa
+>Query: 1068 Target: 3862040 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+aaagaagcctgggcagatcacatcatcctagtctcagctttcaaacttctc
+>Query: 1110 Target: 3610442 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+ggatatgataatgacatggctctgtggtgagcacatcagctgtgtttcttt
+>Query: 1152 Target: 851816 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gctacttttatagaagtgacagacatttctggaggaacatgcttgcaattt
+>Query: 1152 Target: 2180317 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gctacttttaggaggcctaagactctcagcaggtactcagtgggaattagg
+>Query: 1152 Target: 3553286 %ID: 10/51 = 19.6078 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gctacttttaccaaggaccgtgattcaatcccagcacccctgtggtagttc
+>Query: 1152 Target: 3659884 %ID: 11/56 = 19.6429 Strand: +/->gi|383843666|ref|NC_017178.1| Clostridium difficile complete genome, strain 2007855
+gctacttttaaggttttctgtctttggcttttcttaccagtctatgtcctatctat

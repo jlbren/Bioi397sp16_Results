@@ -1,0 +1,30 @@
+>Query: 0 Target: 201233 %ID: 10/51 = 19.6078 Strand: +/+>gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+taattaaatcattaagtttctgtaagagcagaaaacttcctgtgtaagttg
+>Query: 0 Target: 562043 %ID: 11/56 = 19.6429 Strand: +/+>gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+taattaaatcttaacatatacttactacccattaattaagtacagtgagatttccc
+>Query: 0 Target: 1039162 %ID: 12/61 = 19.6721 Strand: +/+>gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+taattaaatctatgtctgaaggctcaagaagcagggagctttgtggtgtaaatccttcagt
+>Query: 0 Target: 1090999 %ID: 11/56 = 19.6429 Strand: +/+>gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+taattaaatctcacaagacctgttcatctcacggcttaaataagtgttcttccttc
+>Query: 0 Target: 1435240 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+tccacaagcctgtgaatgcacacctgcacatacacggaatcacatacttat
+>Query: 0 Target: 1589845 %ID: 11/56 = 19.6429 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+tccacaagccaatgccccatggtggaaaccggcatagcctctctgtcctgtatgag
+>Query: 47 Target: 1106469 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+aactaattgatgttaggactgaggtccccactaagtccttaaaagaatttc
+>Query: 47 Target: 1212653 %ID: 12/61 = 19.6721 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+aactaattgaaaccctcaattaataggatcagcttccgccttcaggacaaaagcaaacact
+>Query: 99 Target: 1529075 %ID: 11/56 = 19.6429 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+acactttccggttctcaatccttggcctagggtttgattctactcagtgtaacttg
+>Query: 146 Target: 187178 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+accagaataaataaaaaaataaataaaaggcactaatgggaaaacgggtgg
+>Query: 146 Target: 1105911 %ID: 11/56 = 19.6429 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+accagaataagtaaactcacacgaaacatctgtgtttgagtttccatggaagtctt
+>Query: 146 Target: 1529020 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+accagaataaataatctctcttcatagacaattggcagcctctcattcccc
+>Query: 188 Target: 846801 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+tgatatttcataccaaattttgctatgatctcagtgtgaggttgacatcta
+>Query: 188 Target: 1367976 %ID: 11/56 = 19.6429 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+tgatatttcaaggtgctggagacaggaatgcatctgcgaaggggagtggcctttcg
+>Query: 235 Target: 172186 %ID: 10/51 = 19.6078 Strand: +/->gi|386730761|ref|NC_017728.1| Listeria monocytogenes 07PF0776 chromosome, complete genome
+gttatacaaactagggatcctacaaacccccgagtgcagcagcaatccctg

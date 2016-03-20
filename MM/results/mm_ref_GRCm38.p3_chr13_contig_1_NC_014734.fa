@@ -1,0 +1,932 @@
+>Query: 0 Target: 1377554 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aaaaaaacgaaaaaatactgttcctttaagaagactgtttttggatagttaagaaattgtc
+>Query: 0 Target: 1396166 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aaaaaaacgacagcattttcaacaaatggtactgattcaacaggcagtcag
+>Query: 0 Target: 3392027 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aaaaaaacgaatttctctcactgtgttctttgccagcatcacaattctggtcaact
+>Query: 47 Target: 165378 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagatgaaatgatagtatatataagtgaccctaaaaattccacca
+>Query: 47 Target: 200341 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaacttttgtagtaaactaaaaccctaagcaataaaaggatattgtc
+>Query: 47 Target: 362510 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaagtcaaacaatgtaacattagtcatcaaaaaggagagacccgaga
+>Query: 47 Target: 409347 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaatatcctatatttcttggttactttctttcaggattttctttctg
+>Query: 47 Target: 489795 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaccaggctaccctcgaaatcacagatctccctgcccttaaat
+>Query: 47 Target: 960130 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaccatttctgcaaggaatctaacttatttttaattcagaaatggaaagttt
+>Query: 47 Target: 1363726 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaagcttgaggatgtagtgagaatttgaaagcaattaaaaaataaaat
+>Query: 47 Target: 1781286 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaatcccaaagacagactttaagactgcgtatgttggttgtgtgaaca
+>Query: 47 Target: 1892397 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagatgatatgatagtatatataagtgaccctaaaaattctgcca
+>Query: 47 Target: 2313662 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaaaaaaagtggggcaatgcataaaggccattaatttccaacaatgc
+>Query: 47 Target: 2785958 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagattaaactaaatgaatcatctctcacaagtagaatgtggcag
+>Query: 47 Target: 3366389 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagacagactcaaacattttgctttagcaaaagggaaatttcata
+>Query: 47 Target: 3752595 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaatatatgagtgaagacaagtatgtatctgtgtggaggccagagaat
+>Query: 47 Target: 3809099 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagagtaaatttccactgtcaataattctctagagtttattctac
+>Query: 47 Target: 3818059 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaaatgtacagagctgaaagtctggataaaagattatgatattgcaa
+>Query: 47 Target: 3939035 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagagaaagccattgacttgtttgagttaatattatatccagcta
+>Query: 47 Target: 4726216 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagattttttttgcctcctattgctttgtttgggctttttttcca
+>Query: 47 Target: 4940665 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagattttcttgtatctctacagatgaaataaatgtgatatgggg
+>Query: 47 Target: 5026726 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaactgaacagtatatgagtcctacaaaaatgtgccaactgtgataa
+>Query: 47 Target: 5164032 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagactttattattagatattttctttatttacatttcaaatctt
+>Query: 47 Target: 5248605 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagacaaattcaaaaggcagatgaaatgtctaacagctctcaaat
+>Query: 47 Target: 5764903 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaacttttgtagtaaactaaaaccctaagtaataaaaggatattgtc
+>Query: 47 Target: 6360138 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagagggcgtgttggtctagttactatgaactcccagtgtgaacg
+>Query: 47 Target: 6578162 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaagagactgtactgtgttgttccagccctaattaaattcaggatgtc
+>Query: 47 Target: 7197736 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagagaaacttttcttgcaaaataatatttcttagcattactatt
+>Query: 47 Target: 7255356 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagagggcagtagtgaatgcaaagacccccaattgttcaaagtgc
+>Query: 47 Target: 7556009 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaatttttgtttttgttgtatgagcaataaggaatgaaatacagtttt
+>Query: 47 Target: 7846475 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaaaaatgtcttcatagtgatttgaaatctcatttaaaatttcttata
+>Query: 47 Target: 7992940 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tttttgtagaacaaatgtccctctgctaacaagactacatttttaattaaataaagttttc
+>Query: 99 Target: 93122 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttttttctgctattgcttttgttctgagacaaggtttcatctatgactgta
+>Query: 99 Target: 282006 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtgtgcatacatttagaagctacacatcaatataaggcatctttctg
+>Query: 99 Target: 458578 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgttttttgtttttgttttttgagacagggtttctctgtatagct
+>Query: 99 Target: 477863 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcaaactcttttcaaatgtctaaggtggaggaacgaaactgt
+>Query: 99 Target: 596158 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttggagaaagggtatcacaatgttgctctggttgacctagaact
+>Query: 99 Target: 758072 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgttcctttcttcttttctttcttctttgttttgtttttatgaaacagg
+>Query: 99 Target: 793312 %ID: 13/66 = 19.697 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttgagacagggtctcactatgtagctctggatggtctgaaacttgctaggtagatc
+>Query: 99 Target: 885790 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgttttccagacagggtttctctgtgtagccctggctgtcctgga
+>Query: 99 Target: 1054118 %ID: 13/66 = 19.697 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttgaggtttggtcttttgcttaatattgtaatagtaagtgctggcccctaagacct
+>Query: 99 Target: 1140685 %ID: 14/71 = 19.7183 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttgttgttctatcctatttttattttattattatcccttagaagccttgtttgttttctag
+>Query: 99 Target: 1172384 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtcattcatttctcgcagacccttgctcacctgtaagcagaaccctg
+>Query: 99 Target: 1450897 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgacaagcttgatattgcattaaacttgttaattattgtacag
+>Query: 99 Target: 1511753 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgagggtatgtgtattgtttatgtgtgtgtgtgtgtgtgtgtg
+>Query: 99 Target: 1633246 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgatctgtataagcagaaaaattctcaaacaaatgaaagaaag
+>Query: 99 Target: 1717310 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgctacagagttcttcaatttatttgctgacatggaaagtttg
+>Query: 99 Target: 1754795 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgttttttacattttttcccttttattggatattttctttattta
+>Query: 99 Target: 1964001 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttcacatttactgactggttctgacctacaaatatgtgtttcttttccct
+>Query: 99 Target: 2076674 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttggttgtttaaccatatgaagttgagattgtcttttaaaggtatataat
+>Query: 99 Target: 2080871 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgggttgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtttgggttttct
+>Query: 99 Target: 2335685 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgggtttttttttggggggggggagaggttgttacagggcctc
+>Query: 99 Target: 2403417 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtgccaaaaattatttatattgagacacaacaaatgtgtaagctctg
+>Query: 99 Target: 2519626 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgatattgtgtttatagctccagtggttgggattgaaagggga
+>Query: 99 Target: 2524814 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtatgatccaaatggctttcccagggagttatgccaatgtacaatga
+>Query: 99 Target: 2813627 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcttttccctttctgatttgaggcgagccttgcactttggaa
+>Query: 99 Target: 3712419 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgatctgtataagcagaaaaattctcaaacaaatgaaagaaag
+>Query: 99 Target: 3736176 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgtttttggaggttaccttcttgagtttttttttttttttttttt
+>Query: 99 Target: 3942385 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgatctgtataagcagaaaaattctcaaacaaataaaagaaag
+>Query: 99 Target: 3953694 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgggaacagatgagagcattggcgtaggtacatcaagcttcct
+>Query: 99 Target: 4090212 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcttccactgaatattatgaaatttaaaaggtaaacatttgt
+>Query: 99 Target: 4090299 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgataaagcatggattatttactttatttgttgtggtgttgtg
+>Query: 99 Target: 4541316 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcttgtttgtttatttttttattttttccattcattaacttg
+>Query: 99 Target: 5118816 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcttatttttaaggctgggtctcttctctagagtccaaactc
+>Query: 99 Target: 5409109 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgtttactggttatttattcttctcttatacattacattctgagc
+>Query: 99 Target: 5729116 %ID: 13/66 = 19.697 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttggggggagctaattttttgtatcaagcagagtcttaccttggttggcttccaac
+>Query: 99 Target: 6122778 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgaaaaaaaaatatctgcagctttattagcagaaactacaagt
+>Query: 99 Target: 6199923 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtattgtgtatatgtctgtgttacggtgaatatagaacccagaggtc
+>Query: 99 Target: 6234938 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcttggtttggagttttgttttggcatagcagtgatgcacag
+>Query: 99 Target: 6325677 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttttaggaattttggagcaacaggctgatggaaatgggtaataaggaaata
+>Query: 99 Target: 6368932 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgcagaaggggataggaacaaggattctgtagaattatacaaa
+>Query: 99 Target: 6669366 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgtttgtttaaagtcctaggggccttaacaattttgtcttgggaa
+>Query: 99 Target: 6726781 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgtttgagacaggatctcactctttggcctaggctgacatcaaac
+>Query: 99 Target: 6781565 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtgacagggacttacattttagctggctaacttgaaactccccatgt
+>Query: 99 Target: 6805534 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttatgtacttatttattaaagcagggtctctctctctccctcctccctcc
+>Query: 99 Target: 6865601 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgttttggcttatactgttactagaacctttctcttgcttctcctccacttcc
+>Query: 99 Target: 7098521 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtgtaatgtcattgtacatatagaataaaatcatcacaaagtctttg
+>Query: 99 Target: 7249907 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgaagtatttcttcatgtcaagttcaataatcaggaggcagag
+>Query: 99 Target: 7498911 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtttgtttgtttgtttgtttttaacttggaaatggaaatggaaaaacaatta
+>Query: 99 Target: 7696739 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtgtttagagccaagatttctctgtgtagccttggctatcctgaagc
+>Query: 99 Target: 7715405 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgtggactttgaatctgtagcctcgtgctatagcatgaaggaatactt
+>Query: 99 Target: 7742804 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttggctctgagccccatattttaatggggttatttgattttctg
+>Query: 99 Target: 7975660 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tatttgtttgatctgtataagcagaaaaattctcaaacaaatgaaagaaag
+>Query: 141 Target: 192734 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaaggcagagatactatcaaaatcaaaaaaagaaaagggggaca
+>Query: 141 Target: 212979 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaaaaatcactagcactctttattaaaatgataaacagatggag
+>Query: 141 Target: 895197 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaacacagtccaaggggtaaatactggaggaatgaccaccggggaaaaa
+>Query: 141 Target: 1436527 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaacatagacaaagttgtgtccttcagttttctcatctttaaattcatc
+>Query: 141 Target: 1749546 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaaataacatcacacagtttgttatttcatgaatttcaatacca
+>Query: 141 Target: 1788413 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaacttctttgttcttgaacatggtctggctttaagaatgataatgata
+>Query: 141 Target: 1994566 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatacccacatataccattaagtccacctttcgtattaagagc
+>Query: 141 Target: 2204966 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatataataattaatgtgagagtatatttaaaagataaacata
+>Query: 141 Target: 2807513 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatccaaatgtctggtcacatctgtgagggattttttttttct
+>Query: 141 Target: 3418879 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatgtttcacttcgaacttgaattaagttcaggatacttaaat
+>Query: 141 Target: 3489194 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaagtaagctctttctctctttcagttgcttcttgactggtact
+>Query: 141 Target: 3704589 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatgattagagagtaattatcttcaaaacctttcctaaatgta
+>Query: 141 Target: 4351659 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatgctaagcgatttgtggtcattattacacaacactttgcac
+>Query: 141 Target: 4782962 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatatttatttagcatatttctatgatgccattaaccaccaat
+>Query: 141 Target: 5866508 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaaatacagaggacattaatgagacacacatttgattgtatctg
+>Query: 141 Target: 6133865 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaactgttgtggaaaaatgtacatttctgtgctgttaagtattcattaa
+>Query: 141 Target: 6153054 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaaagatgaggtgagggtgcaggggaagagattctttgtacacg
+>Query: 141 Target: 6349493 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatatttaatgacaatgcatttgaaaagaaattataagtatag
+>Query: 141 Target: 6584830 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatgatgacacatttttctaaaacctcaatttacatccactgt
+>Query: 141 Target: 6600206 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaataaatgacccttatgttccgattattgaatactgttaagta
+>Query: 141 Target: 7142656 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaattatttactttttacaaaggttcattcaagggtatggaggc
+>Query: 141 Target: 7749967 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaacttcttccaagcttccaagctgagtgtggcattgtagaactgtaat
+>Query: 141 Target: 7810827 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgaactaaaatccagaattggaaggctcaccagtgacccttatctggagtc
+>Query: 183 Target: 84290 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatcgctgtctttcagactgaactgataaattacttttagtattcttttaataggc
+>Query: 183 Target: 4963814 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatcgctgtccctcataaatgtgagcatttaataaccttttctttcaaata
+>Query: 225 Target: 603254 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatagactcaatcagagcttataacacttagtttaactgttct
+>Query: 225 Target: 2610267 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatacaataagattctactggtaggatatttttctttgaataaaacaaatttgaa
+>Query: 225 Target: 2949692 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatgctaaaatttagaaattgctaatttgtttactgtccatat
+>Query: 225 Target: 3048485 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaataattgtctcacctccttctggtctcatcttatgccaaagcat
+>Query: 225 Target: 3319987 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatattgacttttctatcacaggcatgagaacagtcttcctaaag
+>Query: 225 Target: 4236567 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatttagcaattgttagggactaaaatgtagttatttttaaaa
+>Query: 225 Target: 5140057 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaataattcagttaaaatatggctggtaaagtattatccaatcacg
+>Query: 225 Target: 5262676 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaataaaatttatgttttgagaattagatctggggatttttcaaaa
+>Query: 225 Target: 5496096 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatgaccccctttttcatgatcttcctgagccttgggaaaaga
+>Query: 225 Target: 6259350 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatagacagtcccagttttgattttcagtcctgcataaattgg
+>Query: 225 Target: 6497527 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatatgtatattggctggatgttacttattacatggcagtcatga
+>Query: 225 Target: 6626689 %ID: 14/71 = 19.7183 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tcttacaatacatgcatatctgtttatattttgaattctagagtaactttttgcaatcctagggtgaattc
+>Query: 287 Target: 3372155 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccattttcactaatcttaagaataaaagtgctaggccagtaaga
+>Query: 287 Target: 3630908 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccagacttttgtcagaaatgccaggcttttcaggttcatacatt
+>Query: 287 Target: 5110897 %ID: 13/66 = 19.697 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccaagtaagttattctataacagcgatggaaatttcagtgtcccccagaaatcatgtta
+>Query: 287 Target: 5624408 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccactgttccctgggctggcatcctagattgcataagcgaattg
+>Query: 287 Target: 7069744 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccatggtcacggctcatgtagaggggtcaggtaccaggcatgcc
+>Query: 287 Target: 7467715 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccagggttataaaggaggtgggaagtgtgtgggtttggggtaga
+>Query: 287 Target: 7550815 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gcaggtgccactagatgccggaggagggcatcagccctggagctggggcta
+>Query: 329 Target: 84053 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatgtctagtttgcattgtctattttgtatttactatagtgaca
+>Query: 329 Target: 601120 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatttcatgtaatagccccaaccctggtttgggtggatcccacc
+>Query: 329 Target: 1129043 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatggtgaacattctcagttcacggggcttgtctgagttcggat
+>Query: 329 Target: 1172976 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgattgatgttggctgttggtactgccgtagagagagcttaccaa
+>Query: 329 Target: 1671468 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatttttcatttcctgtgtaaagatactgattttcaatatcagc
+>Query: 329 Target: 2259281 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgattgacacatgatagaaaatttttgtgtaatataaaaatgcat
+>Query: 329 Target: 2694094 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataaatatacaaattaaagcttgattattcaccattttaaagc
+>Query: 329 Target: 2952859 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgattccatgcctaaatgtaattcaactatgaacaaccatgtaaa
+>Query: 329 Target: 3174947 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataataagaaatatacccaccttgaaagtcctcatctgaataa
+>Query: 329 Target: 3463156 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatttataggtgtctcattaaacaccttcgatagtttctatatt
+>Query: 329 Target: 4172526 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataaataaacaaagtaaagcttgattaattaacattttaaaac
+>Query: 329 Target: 4347169 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatcatgatagtaaaatgacttgatttttccattgcccatgatgtacat
+>Query: 329 Target: 4472028 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatcaaagtccataaaagcatttgaacactttttatttcatcttaaagg
+>Query: 329 Target: 4848713 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatatattatacccaacatgttccagaagtgtctctaccgattg
+>Query: 329 Target: 4928724 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatgctgatagttcacactcttaatgttagctgtgaatacttag
+>Query: 329 Target: 5439144 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatggagtacagggtgtttatggatatgtgcatgcattgttgag
+>Query: 329 Target: 5892143 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatactgtgttttgattgatgttcttttaaaacttgccacaggt
+>Query: 329 Target: 6735135 %ID: 14/71 = 19.7183 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgatctttacttatctagcacttatttacagggcttctaaatatacattgtctataagtgtttct
+>Query: 329 Target: 7363157 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataaaaggcatattaattggtggattataagaatgaatgataa
+>Query: 329 Target: 7472433 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataatattttcaagtagtgtctaaatttccatctctgggcaat
+>Query: 329 Target: 7530599 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+atatattgataatgccttgtatatctctcaaaatggaaaatagttaataaa
+>Query: 371 Target: 119067 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacattctcacaagcctagccatgcacatggtcctggagcagggc
+>Query: 371 Target: 287977 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaaaagaaagagacatctccctacataaggaggccgtgtcact
+>Query: 371 Target: 554744 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacactgactcagagagaaagcttagggtttgcatatattgccctgtctc
+>Query: 371 Target: 1339214 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaaagaggaaatatggtacacaaaataagcatacaggcctttc
+>Query: 371 Target: 1679767 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaataaagaaatcacaaagggagacaactctggagatagaaaa
+>Query: 371 Target: 1689599 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaacaatatgaactagccagtacccccagagttccctgggact
+>Query: 371 Target: 1731715 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacatgcaaagaggaaaattattttcaataatttttaaaaaatac
+>Query: 371 Target: 3937707 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacatcttctgcatatatgcccaggagaggtattgtgggatcctc
+>Query: 371 Target: 4058971 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacagaaaattctggggggaggggtagaaaaggagtttcacaggg
+>Query: 371 Target: 4411342 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaaaaaataataatatggtcgtggatgacacaaaataaagaac
+>Query: 371 Target: 5098274 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacaaccatataaatcaaccagtacccccagagctcccagggact
+>Query: 371 Target: 5865297 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacatgtaacggaaaaggaaattaaattgtacttcatgtttcaga
+>Query: 371 Target: 7260685 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+agtaggaacagaaacacagcattggcaatattacacagtaggcatacaacc
+>Query: 413 Target: 958068 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagatacaggtcagatatacccagataaattgagattacatatgc
+>Query: 413 Target: 994811 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagacttaggctaaatgtaggcaatattattccgttggctggagt
+>Query: 413 Target: 1448339 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaaggtgaacatgctcaaaatgtgtgacatactttattagaaa
+>Query: 413 Target: 1999247 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaagaaaagataaatgcataaagaaatgggtatattctggatt
+>Query: 413 Target: 3218432 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagacagctcacacaagacaggaaaagacataaagactttgactg
+>Query: 413 Target: 3342927 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagagagtcagtaagaagtgtgtggaccccatcctgaagggccctgtgtt
+>Query: 413 Target: 3627099 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagattaccatctcatgttaaatcaggccttttccttcctgtgtt
+>Query: 413 Target: 4192943 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaggtcctatttcctgtatttctttttcctagaagactcttttcgtttgtttg
+>Query: 413 Target: 4256064 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaacacacacacacagagggagaaacagaaagaggatgaagtc
+>Query: 413 Target: 4376969 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaaggaaaaatgagtaaattcaatttaatcgtttaaaattgta
+>Query: 413 Target: 4391881 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaacctagagcaggttacctcagacacacagagtaaataaagc
+>Query: 413 Target: 4451388 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagagagcgagggaaccgagtcaggggtggtttgagtcttggtttaacag
+>Query: 413 Target: 4910835 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagacattaatttttttctactttaaacacactagctgagacagg
+>Query: 413 Target: 5447399 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagacttaaaaaaaattctctttcttaaaatgggtttcttctttg
+>Query: 413 Target: 5949308 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagatagatggatgcatggctaagtggatagacagatggatagaa
+>Query: 413 Target: 6116369 %ID: 14/71 = 19.7183 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaggaaagaagagtgagtttttaaaagttcacttagcaatgaaaattttaaaaaggattagat
+>Query: 413 Target: 6348873 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagacaccaaagtcaccggtgtttacttgttaatagactaggtgt
+>Query: 413 Target: 7003367 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaaatgggtcactgggggcagagcttgagggataaaggtttgc
+>Query: 413 Target: 7797360 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aagtggaagaaagcaaagcaatgaaattcaaccagtaagactctggctgac
+>Query: 455 Target: 78442 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaactttttttttattctcattttttttaattaggtattttcctcatt
+>Query: 455 Target: 143112 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagtccttgggttgaagttctgtgcaagggctgacctacacaa
+>Query: 455 Target: 171466 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagctcttgggttaaaagtctgtgctagggatgagctacacca
+>Query: 455 Target: 223725 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaatgataattgcatgccaagagtctagaaacacatttggccctaaaa
+>Query: 455 Target: 311325 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaataaatttcagctgttctcacttgtactttaatacatactacttgt
+>Query: 455 Target: 346450 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaatgacatgtatgcattttcagtgtgatcggcgtgtcttctaagggt
+>Query: 455 Target: 440471 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagggatcttcactttcaaatcctttttcctaattgaaagaac
+>Query: 455 Target: 460452 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagaaatcctgtcctctgcttaaaccccagctctgttacctta
+>Query: 455 Target: 810522 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagccacaggttcctggatccctcagagactagtctgtgcaag
+>Query: 455 Target: 1348961 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagcccttggattaaaggtatgtgctaagccgagccatagcac
+>Query: 455 Target: 1721858 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaaattttataaaatctgaaatatgtgaggatctatctctaataatat
+>Query: 455 Target: 1992549 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaactttaaaataaagatagttctttgtacttttcaatttgtcttcct
+>Query: 455 Target: 2125643 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaagtatttcatatgggtcaccactttttttttctataggaaaaagtaatttt
+>Query: 455 Target: 2763066 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaacccatagtccaatgatattttaatctaattctctgaaatca
+>Query: 455 Target: 2860181 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaaactcccctcagcttattttacgtacttgacaacttttaaaaggat
+>Query: 455 Target: 2896000 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatatttggaagagcaccagaactcataaatttcccatctgaa
+>Query: 455 Target: 2966152 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaacttattcaatcatccattaggctgggttagcacagggaaacttgg
+>Query: 455 Target: 3065894 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatcggacttttggcaggtttatccaggactgccattttttga
+>Query: 455 Target: 3075290 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaagaaggctcgaactttgtggaccttaccatttagtgggaggaaataagaat
+>Query: 455 Target: 3114298 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagctcttgatttaaaagtgtgtgctagggcagaaccacacta
+>Query: 455 Target: 3203564 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaaatggtggagcctggtgaggaattgaacccatggataatctctgct
+>Query: 455 Target: 3323232 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagaatcattattaagaactgatggctcactaaccagtacccc
+>Query: 455 Target: 3372835 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaatatcaggtatgattagtacatctgagaaactaaaaatatttagcc
+>Query: 455 Target: 3419343 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatcaaggaggaccagagtgaaacaacatcttctggatatgac
+>Query: 455 Target: 4176181 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaaaaaaaatcacatttttaattacatagatggatgggaaatcaggaa
+>Query: 455 Target: 4371623 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaactggaaataatctagatgattttcaacagaagagtggataa
+>Query: 455 Target: 4598086 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaagatacttcatggatatattttgaatgtatatttctccctacctttaatta
+>Query: 455 Target: 5010369 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagtatgcccataaaatatgcgatcttgatcagtctcctgggc
+>Query: 455 Target: 5078091 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagcaggattgtattaggtgggttaggaaaaatgaggtgccaa
+>Query: 455 Target: 5224756 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagaaattatatggcaaagccttgtagcttgatcctgtcttcc
+>Query: 455 Target: 5365802 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatgtctcaactcatagtaaacaattttcttctccctaccaaa
+>Query: 455 Target: 5430292 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagaagtggagacacaaagcaatgggacaacctaggaaatgtt
+>Query: 455 Target: 5445447 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaattggtttcataagaagactgggatcaaggcaatgacatgtt
+>Query: 455 Target: 5982422 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaactaaacagagacacagtgaaactagcagaagttatgaacca
+>Query: 455 Target: 6059280 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaactcagcaatttttctaggactcatcaaaaacaaaggccaca
+>Query: 455 Target: 6445009 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatatttagaaagaagtttggtgacataaccatttagtgcaat
+>Query: 455 Target: 6712572 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaatcattgaaatcatgaggctgccacccatcagtaccatatgt
+>Query: 455 Target: 6748878 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaataaaggctgttatcaagttacaggcacttacatatgtaaat
+>Query: 455 Target: 7531732 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaagtcacttgtcttggtgtacttcatactgggaacattaacat
+>Query: 455 Target: 7551747 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taaacagaaaagtgatcagcacacagcttcttcccctaaggagaatagaagaaccaggcag
+>Query: 507 Target: 673566 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacccaggcatcctttattgaagttatctgaaggattaaatgattggtt
+>Query: 507 Target: 1147465 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttactcatggattatgggttgcctccaccaatcctaaagagtcta
+>Query: 507 Target: 1184533 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttactacttgtttccacataatagtgttaattcttgaggactttt
+>Query: 507 Target: 1214881 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttactacttgtttccacataatagtgttaattcttgaggactttt
+>Query: 507 Target: 1492470 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacaaagactgacactacatcagaggaaatggctggaaaacaat
+>Query: 507 Target: 2726126 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacttcctttctatacgttcctcaagcatccgctagggatgact
+>Query: 507 Target: 4957365 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttactcactttttccagctatctttcactttctaaggtttctcca
+>Query: 507 Target: 5911729 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttactacttgtttccacataatagtgttaattcttgaggactttt
+>Query: 507 Target: 5952280 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacctaagaaatggtaagaaaaatctagaaggaggggttctcacactgtcaaaa
+>Query: 507 Target: 6204840 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacatttccaatgctatcccaaaagtcccccataccctcccccc
+>Query: 507 Target: 7145709 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacatagagagtcatgagtgtgagaacaaccttggctacataag
+>Query: 507 Target: 7665288 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+cctcagttacattggggagtttgagacaagcttagactgtataatattctc
+>Query: 549 Target: 71951 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttatgaccaattatatg
+>Query: 549 Target: 209213 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatatgttgagggttgttttgtgaccaattatgtg
+>Query: 549 Target: 719790 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 736541 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 976954 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtacatgttgaggcttgttttgtgaccaattatgtg
+>Query: 549 Target: 1073041 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 1226698 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataatgtagaagttttacatagtagagttataggaagcttttaatgaat
+>Query: 549 Target: 1234055 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataactggtcttggcttgctagaagaatcagttaccagtccacaacaccatcag
+>Query: 549 Target: 1327062 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcttgttttgtgaacaattatgtg
+>Query: 549 Target: 1421570 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgagacctgttttgtgactaattagatg
+>Query: 549 Target: 1732010 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataatatcagttccagtacaatcttactttgtctaatccccttacttaa
+>Query: 549 Target: 1745190 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatatatgtttgcattattttatatttccactctaatactaga
+>Query: 549 Target: 1749584 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataccaaatacgacacaccagactgatggtttgatgcaattgtt
+>Query: 549 Target: 1908825 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattttgtatctgttgaggcctgttttgtgaccaattatatgg
+>Query: 549 Target: 2017611 %ID: 12/61 = 19.6721 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataactgtgtaacatgcagtttccatgtcatttacttgaattatacctaataga
+>Query: 549 Target: 2036376 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctcttacggcctgttttgttaccaattatatg
+>Query: 549 Target: 2078280 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattttgcatcaatgttcataagaataattaatctgcagtcct
+>Query: 549 Target: 2096059 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 2129543 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 2145157 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctattgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 2151074 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattgtgattttatttcagcttggttacaatatagaaaaacta
+>Query: 549 Target: 2175269 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcttattttgtgaccaattatatg
+>Query: 549 Target: 2383824 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttaaggcttgttttgtgaccaaatatgtg
+>Query: 549 Target: 2503518 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaacgattatatg
+>Query: 549 Target: 2508243 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataaattcagtttgtgaaatctttttctatactcaatatttttgggtcc
+>Query: 549 Target: 2682446 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataaacaaacccaaagattcaactcatatcctacaagttgcctgtgttg
+>Query: 549 Target: 2738404 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattatttttccagtggagtattttctaaaatacttgagcata
+>Query: 549 Target: 2994017 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataaagtgattcacttttcagaattgtcttccacattcatcagttcatc
+>Query: 549 Target: 3526008 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgttttgtgacctattatgtg
+>Query: 549 Target: 3671618 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 3700865 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctattgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 3726318 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctattgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 3733470 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgttttgtgacctattatgtg
+>Query: 549 Target: 3823843 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 3859671 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatatcaccttgggagtaacattgaaagcgttttatctgttta
+>Query: 549 Target: 3881639 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 3894801 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattaaagaaataagattcctgtctagggaataaagaacattc
+>Query: 549 Target: 3911574 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttatatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 3947012 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatatttttgaatatttgtgaattgatccatttct
+>Query: 549 Target: 4045139 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataattttgtatctgtggaggcctgttttgtgaccaattatatggctaa
+>Query: 549 Target: 4053156 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatatgttgcggcttgttttatgaccaattatttg
+>Query: 549 Target: 4128122 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatttgtgacctattatgtg
+>Query: 549 Target: 4182864 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatagaacataaagttattttatttaaaaagtatgcttgtttttc
+>Query: 549 Target: 4217432 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttatgtatctgttgaggcctcttttgtgaccaattatatg
+>Query: 549 Target: 4225914 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatatttgtatatgttgaggcctgttttgtgacctattatgtg
+>Query: 549 Target: 4442247 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctattttgtgaccaattatatg
+>Query: 549 Target: 4579342 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatatgttgaggcttgttttgtgaccaattatgtg
+>Query: 549 Target: 4688047 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataaacaaaaatgatttatgggtttcattaacaaaattacattgtaaaa
+>Query: 549 Target: 4809823 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgttttgtgacctattatgtg
+>Query: 549 Target: 4885747 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataaatgatttgagggcatatgttttgaaatacttgaaaagaggcaatg
+>Query: 549 Target: 4892401 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtacctgttgaggcctgttttgtgactgttaatatg
+>Query: 549 Target: 4897255 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgagacctgttttgtgacctattatgtg
+>Query: 549 Target: 4920558 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 5302489 %ID: 11/56 = 19.6429 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaataagcagctgaattcaactggactcaactgaaaaacagcatggaaaaa
+>Query: 549 Target: 5479706 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatacaacattgacaatacatatatcttgtgtgttttgctaatat
+>Query: 549 Target: 5730822 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatacagtaggtcattctgagtactaaggacaaaggggatggaag
+>Query: 549 Target: 6201674 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatcacgtgaatatctcatttatttattaaatctattacacct
+>Query: 549 Target: 6209117 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 6523956 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggctttttttgtgaccaattatatg
+>Query: 549 Target: 6836157 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgtttgtgacctattatgtgg
+>Query: 549 Target: 6861718 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgacgcttgttttgtgaccaattatgtg
+>Query: 549 Target: 6964393 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatgtg
+>Query: 549 Target: 7211628 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatattaagtctgatatagtggctaaacagggcattgttggaatc
+>Query: 549 Target: 7279598 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatatgttgaggcttgttttgtgaccaattgtgtg
+>Query: 549 Target: 7489786 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatcttttgaggcctgttttgtgaacaattatatg
+>Query: 549 Target: 7523238 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtattttgagccctgttttgtgagcaattatatggt
+>Query: 549 Target: 7669614 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgaatctgttgaggcctgatatgtgacctattatgtg
+>Query: 549 Target: 7681759 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatattaataaaatgagatgaagacaaagtgtgaaatgctcca
+>Query: 549 Target: 7703134 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 7720182 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatagagttctgctgcatgctgaatgatgggtgaactgtgaaaat
+>Query: 549 Target: 7746185 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcttgttttgagactaattatatg
+>Query: 549 Target: 7773653 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgtagaggcttgttttgtgaccaattatgtg
+>Query: 549 Target: 7787347 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatagttttgtatctgttgaggcatgttttgtgatgaattatatg
+>Query: 549 Target: 7790913 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgaccaattatatg
+>Query: 549 Target: 7860619 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcatgttttgtgaccaattatatg
+>Query: 549 Target: 7926603 %ID: 10/51 = 19.6078 Strand: +/+>gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+aatttcaatatttttgtatctgttgaggcctgttttgtgatcaattatatg
+>Query: 0 Target: 107348 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattagtctgactgactagaagagactggaattcccagagagatgt
+>Query: 0 Target: 563546 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattattagatatatacactatataacttttatatgcattatcttgattaa
+>Query: 0 Target: 601397 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattacctatttatattcttgaatttattggcttcctttctccgca
+>Query: 0 Target: 1191046 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattagctggatagcagatagttaaacattagccagtgagtaggca
+>Query: 0 Target: 1233628 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattaatcagataacaacactgcttagacattagagggggttgtgc
+>Query: 0 Target: 2297270 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattacaagataatttggaaaaaagaaatatgtcctttacaacctt
+>Query: 0 Target: 2494206 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattatttggtcatgtaaaatccattatgtaaggacaaaaatcaaacagat
+>Query: 0 Target: 2529336 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattatttgctatttgggaggtaaatattctgaagactattagcttgcatc
+>Query: 0 Target: 3802952 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattaaagaagtgctggagtttattcacctcaagtcagcaccagag
+>Query: 0 Target: 3844144 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattaaagaaacctaggaaaagaatatctaggagtagactcctcac
+>Query: 0 Target: 5028015 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattaacagcttaacatggcttacatctccaggccaaggttggtaa
+>Query: 0 Target: 5516490 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattaagcctccctggagactttatctactacatcactgtccatac
+>Query: 0 Target: 6761886 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattatgcatgactcaaataaaaataacaacaaaattaaccactctgaaag
+>Query: 0 Target: 7695855 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaatcattattattaagttattaaaatccaatcattttggatacttgacgccacc
+>Query: 47 Target: 189672 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaactcttgactcttaagaccatcttccttattcaggtttcctc
+>Query: 47 Target: 442520 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaagagcaaatagatacaggatcttgtagacataggcataatta
+>Query: 47 Target: 2227391 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaagtatagcaagaaattggtaggtatcattttgttgctacatt
+>Query: 47 Target: 2522613 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaagacatctatcaagacagaataaagccttttttattatcatt
+>Query: 47 Target: 2545469 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaatacatgtaaggctccaactaaaatgaaactatcatcttttaaatt
+>Query: 47 Target: 3298630 %ID: 13/66 = 19.697 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaacaagcgagcggaagctaacaagtgcctgaaatagatgttgattgtaagtgaaata
+>Query: 47 Target: 4035498 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaattcaatgcaattcctatcaaaattccaacacaattctttatagag
+>Query: 47 Target: 4481289 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaaaagtccaaaagtgcagtcattttttaaatttgatactacatcttt
+>Query: 47 Target: 4490500 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaagctgtcttgcctacactaggacagtggtggcacaatgcttgttgg
+>Query: 47 Target: 4686490 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaatagttagagtttgtaaaaggaaaacaacaaacagtggtgtt
+>Query: 47 Target: 4708166 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaagtgctatattgcagatacaatattggggtaactgatatcta
+>Query: 47 Target: 5057152 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaagcataaccacctcatttagactagtaatttttctagtacaa
+>Query: 47 Target: 6279393 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaaaaaccatttgaaattccatgtcttgtaaccaaggggattgttttc
+>Query: 47 Target: 7110467 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaacttgtgagttgtttacttgtggaattttccatttaatatct
+>Query: 47 Target: 7454899 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+tgatttacaaggagatgcagagttatctgtagctcagcgtaggtccgggtc
+>Query: 89 Target: 120728 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagctgtggtgatgtctggcctcatctccagaattatgtgtaatatctg
+>Query: 89 Target: 325174 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagctgaacatagtcactacttttcttattctgattaactataaaaaaa
+>Query: 89 Target: 349560 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaaggggaacttcaggttctctgttcttgtcctcacgttgtcttt
+>Query: 89 Target: 381697 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaaggggaacttcaggttctctgttcctgccctcaaggtgtcttt
+>Query: 89 Target: 608377 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtatgacttctctaagttcaaaacaggtgaaaatatgttagt
+>Query: 89 Target: 1636925 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtaatatgaatgccccattgttaatttacaaatgcgtttgca
+>Query: 89 Target: 1643324 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtaatatgaatgcccctgtcttattttgctaatgaatacatt
+>Query: 89 Target: 1872172 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaaggggaacttcaggttctctgttcttgtcctcaagttgtcttt
+>Query: 89 Target: 2045800 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagcacaggaaataagtgaactattctctagacttctgcaagttattgt
+>Query: 89 Target: 2250873 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtgtgtctattatctgacaatcaagacatcatttatatgtaa
+>Query: 89 Target: 2306292 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagagaaaagttggaacagaaagtattgtttgtaatatcagaaa
+>Query: 89 Target: 2376406 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagaattgggtcatggaaggagttacagagacaaagtttggagc
+>Query: 89 Target: 3716140 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtaatatgaatgcccattgtaaatttactaatgcgtttgcga
+>Query: 89 Target: 3946067 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtaatatgaatgcccattgtaaatttactaatgcgtttgcga
+>Query: 89 Target: 4104768 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagagcatagtaaacttaatgtagtgagttgtttcacataatgg
+>Query: 89 Target: 4117298 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagagaagaattttttcaactcaatgcttattagaatcaactat
+>Query: 89 Target: 4265357 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagaacattaaaaatgtcaaatgtataatttaactatttattaa
+>Query: 89 Target: 6074634 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagttgataagtggaatttttcatgtaatctaccacattaagag
+>Query: 89 Target: 6303581 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagctagcctcaggcttgcacacacacagatagacgatggaagaagagg
+>Query: 89 Target: 6354640 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagaaaagttcagttctgacatgaaaaaccctaaaggagtttgg
+>Query: 89 Target: 6493772 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaaggtttggtgtttttagctgtgccagtaaaatatgcactactg
+>Query: 89 Target: 6537230 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtatactttctgttagttggggaggggtcatttgagaaactt
+>Query: 89 Target: 7979342 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+gattataaagtaatatgaatgcccattgtaaatttactaatgcgtttgtga
+>Query: 131 Target: 1165015 %ID: 12/61 = 19.6721 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taggggctaaaatccttctttccattcttccataaaagtcccaaagctccacccactgttt
+>Query: 131 Target: 5915514 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+taggggctaaagaaagggttcagtcagtaaagtgtctgtcctgcaagaacaccaat
+>Query: 178 Target: 234098 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttgtcaactagttattaattcaaaagtttaagtattataaa
+>Query: 178 Target: 563598 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttaaattatgtaaaaaaataaatgagcaaatcaatacttaa
+>Query: 178 Target: 696697 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattattattaacaatattatataaaattaaaattattttcacaa
+>Query: 178 Target: 969133 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttttctaactcatggttctcaatcctttctaatgctgcgatc
+>Query: 178 Target: 980331 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttattttatttttaattatgtatatgtgtgtgtatatgtgta
+>Query: 178 Target: 1127167 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatcgtaaatcataactgttttgaatatataaagaacgagat
+>Query: 178 Target: 1297190 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgtggttggactagactgtattatggttaatatatcattttgttgtt
+>Query: 178 Target: 1457988 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaattttaagtattttatttattattgctgttttatttttta
+>Query: 178 Target: 1508343 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatacagctgagtcaatgatgtttaaaatgaatttatcactg
+>Query: 178 Target: 1536774 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttttctccctcatcaattgcaatgttcaccgacccttgagtg
+>Query: 178 Target: 1553528 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatatacatagacaaatatataaatataatttactgagtcca
+>Query: 178 Target: 1693115 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatgtcaagataactaggcctgaaaattcactgagcacacca
+>Query: 178 Target: 1753564 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttatggctttatcattattagtggaaatcttcaatcttctc
+>Query: 178 Target: 1758408 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattactacttagagcagtggttctcaacctgtggctcatgaacc
+>Query: 178 Target: 1788372 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttcctaaattctttgacgattccttgtaagatgaactaaaa
+>Query: 178 Target: 1799607 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatcttaaaccataactgttttgaatatataaagaacaagat
+>Query: 178 Target: 1811842 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttttatgtaaataaaataaattgcatcatcttctctctcctc
+>Query: 178 Target: 1812546 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattccaaaagagaaatgaatatcaattatatatttatgagacat
+>Query: 178 Target: 1868569 %ID: 12/61 = 19.6721 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttttattattacgtattttcctcaattacatttagaatgctatcccaaaag
+>Query: 178 Target: 1882991 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttactgaaaaatagattaaatttgtacaatctattgtggtta
+>Query: 178 Target: 1915374 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattccattaataagcatatagattacagtatcatgttggaaatg
+>Query: 178 Target: 1945315 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaatgataattgagaggctgtggcacagcgtgggggcatgat
+>Query: 178 Target: 2043929 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattggccacctgctgagatagagaaggtgaaaagtattaagaaatacag
+>Query: 178 Target: 2045454 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttctcttaatcgggaggtgatattttcacaagtataccaat
+>Query: 178 Target: 2086175 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcatatactatatatgagtgaaaaaatatatatatgcactca
+>Query: 178 Target: 2089013 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttggatgaaaatgaattagtttcatttattattaaactcac
+>Query: 178 Target: 2099940 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttaatattaaacctcattagatgtagcattaacaaagatctt
+>Query: 178 Target: 2100779 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattataaaaattgcaagagtcacatgtgaaagaacatagggttt
+>Query: 178 Target: 2452542 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattccttttccataatacttcttatggtcccaagccaatgcctt
+>Query: 178 Target: 2506659 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgcattctgttaacaataattttgtgcaaatggtgtatgctaatgct
+>Query: 178 Target: 2516072 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcataaacacattctacattatattttccaatgaattatgca
+>Query: 178 Target: 2666246 %ID: 12/61 = 19.6721 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgaccatagctctagaacttaagaatgtgatgataaacactattaatgtggt
+>Query: 178 Target: 2668268 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttatgtcacagccatggtctaatactgtttatttacaaaat
+>Query: 178 Target: 2920795 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgaaaccaagagtttccaaccataatgggattaaagtagaa
+>Query: 178 Target: 2930544 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattctcaaacaacgataaattgaatattgaagggatgaattttt
+>Query: 178 Target: 2931764 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttgcaagctagtaatgtctgatgataagtcatattaacaat
+>Query: 178 Target: 3158610 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttaacttttctccttatgcacagagttcatgctgtcaatta
+>Query: 178 Target: 3169124 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgttccttcaacttatttcaaagcttgattttaagaaacaa
+>Query: 178 Target: 3185727 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatttataggtgctagaaagacagctcagtggataaaagcat
+>Query: 178 Target: 3225260 %ID: 14/71 = 19.7183 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgaaaacatcacgaggctagtaaaagtgtgattctaccaaaaacaatgtagatttctccttg
+>Query: 178 Target: 3383411 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttttattaggtattttcctcatttacatttccaatgctatcc
+>Query: 178 Target: 3406006 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttgttactcatcaaatatatactaatctagcttttcttttc
+>Query: 178 Target: 3562133 %ID: 14/71 = 19.7183 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgaaaaatgtgacattgcaaattgtgaaatcaagatcttagtctatgtaagtggtttctgtt
+>Query: 178 Target: 3893987 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttctatctattcatctgttgttgctatacttataaattgtat
+>Query: 178 Target: 3897536 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgcttactaaacttattttagagatgtggatttagaaaatc
+>Query: 178 Target: 3897602 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttatttattacatgtaactacactgcagctgttttcagacac
+>Query: 178 Target: 3927144 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatttaaaatttattatacttaaaatagtttttttctaaata
+>Query: 178 Target: 4056258 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttttattacgtattttcctcaattacatttccaatgctctc
+>Query: 178 Target: 4252279 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaattctgccaaccatgagcatgagagttctttccaacttct
+>Query: 178 Target: 4253614 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttttcattttttgtactccataatttattccccacaccctc
+>Query: 178 Target: 4328366 %ID: 12/61 = 19.6721 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgagcttgtatttgtatttaaatcgataaaatgggtcaaatatgctaattac
+>Query: 178 Target: 4470065 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttcatggcacaacacaaaatctcaccatttctgagaagtat
+>Query: 178 Target: 4525925 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttaaattaaaatgcatcccatgcactaaacacaacaaatgt
+>Query: 178 Target: 4587818 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttcattctttacaaatcatcaaatatggcactttcttgggg
+>Query: 178 Target: 4623783 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatctctttaatgaagcatcaaaatttgtactgtcatgcatt
+>Query: 178 Target: 4652028 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttattacattttagtgtgtatatgtgtgtgtctgtgcatgtc
+>Query: 178 Target: 4746611 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgtcatattctacaggaccaacagtttatctgtttttctctattctg
+>Query: 178 Target: 4767266 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaaggcctgttatatagaagcagagggcctggtgcagacaca
+>Query: 178 Target: 4771553 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgttgtctcagacattttaattataggcttaaatatattac
+>Query: 178 Target: 4777861 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttaaattaatgatattaagtgttttttctccaataatactt
+>Query: 178 Target: 4781918 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattctacagacacaaccataggtcattcttcatggaggcaggtc
+>Query: 178 Target: 4827069 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttcccgcaacaatgccctcttctggtgtgtctgaaggccagt
+>Query: 178 Target: 5246164 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatgtttatgttttaattgtgcttctgtgaatatgtgggagt
+>Query: 178 Target: 5248008 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattattattgtgcccactacataaagagttgaaagcacagtctc
+>Query: 178 Target: 5313695 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattatttttttaaaaatcctctgtgtcattatctgtgggtccat
+>Query: 178 Target: 5328078 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttacagaatagactttaggatactcaaccaaaaacaaaatat
+>Query: 178 Target: 5380732 %ID: 12/61 = 19.6721 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgattacagctgtgactcagttgcctgctattagaaactgatcatcactagg
+>Query: 178 Target: 5453497 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcagtatttgttaaatatcagaagatgttattattaatgcat
+>Query: 178 Target: 5517345 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattctgcagaacaaatatttaaaatttttacaaagtctaatttg
+>Query: 178 Target: 5593062 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattctgtataggagtgtatgcatgtgtctatgcagacatgtata
+>Query: 178 Target: 5764248 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattagattttgaaaataaaggtaagactttaatagtgtgcatgg
+>Query: 178 Target: 5846178 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttttaaaagacatggagaatgtaatatatgttctaaaaacct
+>Query: 178 Target: 5934728 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgttttttaattaggtattttcttattttacatttcaaatgctatcc
+>Query: 178 Target: 5947110 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcactctctttaaaacctcttgaagtctaaattttctcttaa
+>Query: 178 Target: 6266375 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcttttttatgtccactttctactctgtggacttttttttcc
+>Query: 178 Target: 6312841 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgtggcaatgaagtctgtgtattgaacttatcctgaggaggcgtgtt
+>Query: 178 Target: 6330108 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttaacattaagtagggatataattacaacttaaaaatatatg
+>Query: 178 Target: 6530231 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttataattgataagtaatacctatgtttaaatattatatgt
+>Query: 178 Target: 6570063 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttatttatttattatatgtaagtacactgtagctgtcttcag
+>Query: 178 Target: 6672306 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgaagcaatgaggaaactgggctcctgatagaaaaccccag
+>Query: 178 Target: 6721562 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgaacatacacgagagtccttggggatggaacccagcctga
+>Query: 178 Target: 6726924 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttcaagagcataaactatcaaggaaaagattggatgcaatga
+>Query: 178 Target: 6757464 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttaggaattttataataaaacttcaggtagttaatttgattt
+>Query: 178 Target: 6828773 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttttattaggtattttcctcaattacatttccaatgctatt
+>Query: 178 Target: 6850493 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttgattaggcattttcctcatttacatttccaatgctatcc
+>Query: 178 Target: 6913958 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcaaaggtgaacttcaagctcctctgaagcaatacaccaggt
+>Query: 178 Target: 6945067 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattctaattattctatttttacatgtcttaaaagccttgcagtt
+>Query: 178 Target: 7081759 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttatgtgtgtgcatgtgtgtatatgtatttttctgtataatg
+>Query: 178 Target: 7098515 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgtttgtgtaatgtcattgtacatatagaataaaatcatca
+>Query: 178 Target: 7108293 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaccaataatcctaatgccaattttttagttccttttcattg
+>Query: 178 Target: 7138174 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttttagttgtgtgtatgtgtgtgtgtttaagttgaggtcag
+>Query: 178 Target: 7160449 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcgaatgggtgaaaatttgggagccacagttaaagtttgcat
+>Query: 178 Target: 7163946 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattttatcctttatatgtgtattatttttgtttgtctgcatgta
+>Query: 178 Target: 7357378 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttctctgcaaggaagatatattttcaattcacaagcatactg
+>Query: 178 Target: 7492469 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattggagagagtttacagagggaagaggtagaaattaagatgaaacctt
+>Query: 178 Target: 7504890 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcaaaatgtacctggttcaaattcggcggctctgtttattag
+>Query: 178 Target: 7725900 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttctttaacaaaataaaatgcaggaagaagtaaatccttagg
+>Query: 178 Target: 7739167 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattcctttttatatagtgaagacttcgggtccctctgcactttt
+>Query: 178 Target: 7739258 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgtgagtctatggcaaagaagagaattatagatgctgagtgactttg
+>Query: 178 Target: 7752469 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttgttgtatgacctagagttctcaaaataagccattctaaat
+>Query: 178 Target: 7820021 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttctgtgttctgactaaaaaagtctgtgtcaaaatttcttta
+>Query: 178 Target: 7943642 %ID: 11/56 = 19.6429 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattgcatccctttagagatgaggcaaatcctcttcactgaggcggcact
+>Query: 178 Target: 7973840 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatattaaacaaaacagaacgggaattatcagagcctatggtttctt
+>Query: 178 Target: 7992781 %ID: 10/51 = 19.6078 Strand: +/->gi|313202490|ref|NC_014734.1| Paludibacter propionicigenes WB4 chromosome, complete genome
+ttaaaatatttcattgactattaatttaagggattaaccaaaacactgact

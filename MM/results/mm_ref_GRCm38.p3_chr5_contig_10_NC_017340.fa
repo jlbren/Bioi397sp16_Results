@@ -1,0 +1,604 @@
+>Query: 0 Target: 887565 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cgattaaagatggatattttgtttgttacaatcaagacctctgatttcagttttat
+>Query: 47 Target: 367727 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgaggatgcgcctgtagctgtcacggtcgataccccagagcttga
+>Query: 47 Target: 402786 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagctttgcagcactggacaaattgctcgacctttctggtctgt
+>Query: 47 Target: 2342769 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagcagcttcacacttctggctgccattccagactgaataaaga
+>Query: 47 Target: 2543521 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagacagaggtggttgatcactgggagacgctgtaaagtgagtt
+>Query: 47 Target: 2625932 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagcaatgtggtgtaagtatggtgccccatcactctagttcttg
+>Query: 47 Target: 2739395 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagtgacttgtagggctgtcgactcacctatctgtgagatcccttaggg
+>Query: 47 Target: 3323519 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagattagagtatagcaagcatgaagccattgtccaaggcaagc
+>Query: 47 Target: 3382099 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagcagaggttaccatggctcccatgtatatacagacaatcccc
+>Query: 47 Target: 3742880 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgaggcccaactacatactgatcttgaactattattattatatga
+>Query: 47 Target: 3834325 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tcaccatgagctatgcagtggttgggattcaacagctcacctggtgttctt
+>Query: 89 Target: 405623 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaataccttagagggtacagtgtgaaccacagtccctggggaaagccacac
+>Query: 89 Target: 3429226 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaataccttaaactgcctgtaactggatctggcgccctcttctggcggctg
+>Query: 131 Target: 1055092 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtgggctggcatcaaggaggcacctgggtacaggcagcaggtg
+>Query: 131 Target: 1328311 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtctcctgtcttgcttgttacctgggttttcctcctgttttct
+>Query: 131 Target: 1448794 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtacagactgacactcagctcacaaaaccccccactccctgca
+>Query: 131 Target: 1581337 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtggcatctgctgccgaacaaccgtggcttcagctgcgcagcc
+>Query: 131 Target: 2734427 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtcctggaactcactctgtagaccaagctggcctcagactcgt
+>Query: 131 Target: 3673820 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgttctctgacagccacacgcaggtcctggcacatgctcgctcacgtgt
+>Query: 131 Target: 4321735 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtgtagaaacaattccctgctgacaatttgtgggaagccgccc
+>Query: 131 Target: 4888322 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cccaagctgtcctggaactggtgcccttcctgcctcagcctcctgcgtacg
+>Query: 173 Target: 415652 %ID: 12/61 = 19.6721 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttatattcctcacacctgcctagaatcccccagtgagaggccagagtatggct
+>Query: 173 Target: 648885 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttgaagaaagctcaaggcagtgtcctccaagtgaccctcgcaa
+>Query: 173 Target: 1490387 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttacacaacactaagccaccccagcttgttgtcttcttgacaatctgc
+>Query: 173 Target: 1626742 %ID: 12/61 = 19.6721 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttatgataggcacatcagacaagaacaggggagatggcatcacagggaaggaa
+>Query: 173 Target: 1715167 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttatactgcagatgaccgtgtttggattgccagcacccatgc
+>Query: 173 Target: 1920228 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttaattttagtgacttgaaatgaaagctgtgactcaagtcacattagg
+>Query: 173 Target: 1968045 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttacaagggtctaaagtagaagaagcagggagggtggctgagcaggta
+>Query: 173 Target: 2015438 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttttatcatacaataaccgtggtccctcctcggggtcggtggg
+>Query: 173 Target: 2061320 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttgagaagaaggagccctgggaaaggggaggaacatttccaat
+>Query: 173 Target: 2311869 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttcaaagcagatgtcccagagcatggtgacacatttgctttac
+>Query: 173 Target: 2940234 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttttcctttgtctttgaagactcaacaacttaccatagtgact
+>Query: 173 Target: 3796142 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttgaatttaggctccggctgaggtgtgcggctaagtggggtgc
+>Query: 173 Target: 4322658 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttaggtcaggtaagaatacctggggagagattagaaggaagg
+>Query: 173 Target: 4344392 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttcttgtctaattaataatctatttctttcttcccttcctat
+>Query: 173 Target: 4552851 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttgtgtttgcgtctgttcataggggaagactgtgggtctgcg
+>Query: 173 Target: 4745284 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttaggtcaggtaagaatacctggagagagattagaagaaaaa
+>Query: 173 Target: 4913652 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagttacaaaatgtacactttgaggaggaaaagggcacggggaagaatgga
+>Query: 173 Target: 5105270 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggaaaagtttaggtcaggtaagaatacctggggagagattagaaggaagg
+>Query: 215 Target: 76556 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tgtggataatgcaacctaggaataaagatctgctacagtgaccttgaagag
+>Query: 215 Target: 184716 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tgtggataatatcaaataagaactatataaaagactaccattttctgttat
+>Query: 215 Target: 3291310 %ID: 11/56 = 19.6429 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tgtggataatttaggcagtccacttgtctaagaagcagggagtgtggaaacccctc
+>Query: 215 Target: 4102343 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tgtggataatgggaaaggcaatcaaagtttcaatagcagccacgatgggca
+>Query: 257 Target: 1127813 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gcaacatattttgatactctgtagttcttgaagaacattctggaagttggg
+>Query: 257 Target: 1923136 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gcaacatattgttggttctttctgaccatgtgggtcctgggaaataaactc
+>Query: 257 Target: 4387868 %ID: 10/51 = 19.6078 Strand: +/+>gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gcaacatattatatagataaaaaattggaagcaaaggttaacgccctagaa
+>Query: 0 Target: 212603 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaagggtaagagagatgtcaataaagttcttgccacagaagcatggtg
+>Query: 0 Target: 837061 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaatgagtaagatttgcctctgttagccatgacagtgggcatgg
+>Query: 0 Target: 1037006 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaaagtggaactggagatgtgattcagccttagagcccctgcctagaatccct
+>Query: 0 Target: 1305091 %ID: 15/76 = 19.7368 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaaaaaagaggattcagaaccttgggtagtaatcctataggatgggggagagtgggggaggaaggggg
+>Query: 0 Target: 1470671 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaacctttaaagtcagcgcattagttgactgcagtgcccctgggtggt
+>Query: 0 Target: 1632815 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaacttagaagccaggtgagtgagttggctcaggggtaaactcgatga
+>Query: 0 Target: 1934861 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaacactgcacaccacgcaagctctagggtgtcagggagggtgc
+>Query: 0 Target: 2397743 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaatattaaaaaaaaatttatacacagactcaggcaagagccaaaatg
+>Query: 0 Target: 2567964 %ID: 13/66 = 19.697 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaaaataatagtagtaaccggagaatgaatgagttctgggaacttcagcacttagtca
+>Query: 0 Target: 3316371 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaatgtaggagaggaagggtttgtttcagcttacagttccaggt
+>Query: 0 Target: 3513282 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaagcaagggaactggagaaactgctcagcacttaaagtgcctgccgt
+>Query: 0 Target: 4202200 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataaaagtaaataaatctttttaaaaaaagttgaagaccgtaaggttgtagatgaa
+>Query: 47 Target: 878631 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattctcccagtctccatccagcagtcatgctgtcccttgtccag
+>Query: 47 Target: 1722978 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattgaaaaagttagttatgctccagcccttctattttctcaaca
+>Query: 47 Target: 2563869 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattctgcatgtgagattcccatattctacttttccccatccttg
+>Query: 47 Target: 2666421 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattttttggttcaagaaagtttggaaagactgcttgccatatccttttcttaga
+>Query: 47 Target: 2735986 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggatttgttttactttcgatcacatctgtgtttgcatgcatgcacatgagt
+>Query: 47 Target: 3951778 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattaacactggacaaccagggattgaactcagggcctctgcaca
+>Query: 47 Target: 4135693 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggattagatcggcggaacgcgagctgaatccctctcggttctgaca
+>Query: 47 Target: 4548232 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaaggatttatttatttattttatgtattttattgtacagtgtagctgtacaga
+>Query: 94 Target: 499846 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taatcaatgagatcatcttttttttttcccctgacagggtttctctgtgtagccct
+>Query: 94 Target: 2716430 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taatcaatgaagattgaaatttggcaactgagatgataaaaaatgaaaaaa
+>Query: 136 Target: 84498 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaatcttatcaccacagccaacgtgggtgtagcacttgaccacccagaaca
+>Query: 136 Target: 143355 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaatcttatctcaaaaacataacaaaacaaaaacctgttttgatgactcagtgggt
+>Query: 136 Target: 2707316 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaatcttatcgccagtgccagcagtagggatcactactgtgcttctgtcct
+>Query: 178 Target: 1318023 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattagatatatatgtgctgtatatatttctctgtgctcaagtgtatgtg
+>Query: 178 Target: 2917673 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattagatattagtcccctatctgatttaggataggtaaagatccttgcc
+>Query: 178 Target: 2979832 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattagataaatataaaacactgtgggcaagcaaaggaaaatcacccataatccc
+>Query: 178 Target: 3591661 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattagataacacatgtgccatgtgtgtgcatgtgtgtgtgtgtgcgtgtgtgcgtgtgc
+>Query: 230 Target: 2298312 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcaaccaaagtttatagccaaggtgtttattaattaataattactctcag
+>Query: 230 Target: 2695049 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcaaccaaagtagtatttcagctaaacttgggtgacatagaaaaatgaga
+>Query: 230 Target: 3907548 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcaaccaaagactacacatggtgctggccacatatgtggcagaagatggc
+>Query: 230 Target: 4442516 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcaaccaaaactcctttgttcctaataccccagctacagattcacctcag
+>Query: 230 Target: 5077966 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcaaccaaagtcttactggccagtcttcccctaatatggcattttagttt
+>Query: 272 Target: 612270 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaaaacgcatccacaaatatccactgtgaggtccctgaccctgcctgagtc
+>Query: 272 Target: 2208499 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaaaacgcatgcccatcttccccatcatcaaacctttccctgctcgacaaggtggg
+>Query: 272 Target: 3664724 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaaaacgcattattgagaacggcataagtgtgggctagctcccgaccagat
+>Query: 314 Target: 910986 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gccgtcgtcgcccgccttggcaatctgagggacctgtcacactgcgtgatc
+>Query: 356 Target: 280053 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+actgactcatccactggaaagtccggagtgatgggcagctaagaggtgagacctgg
+>Query: 356 Target: 406415 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+actgactcatctccccagccttattctctttgaagcgagaactgttttatactgac
+>Query: 356 Target: 1435420 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+actgactcatgtccttatccccgtacaacaagcactttactagctgagcta
+>Query: 356 Target: 2182217 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+actgactcatgggctgtagccaatggattggctggatggtcagggacttgg
+>Query: 356 Target: 5061854 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+actgactcatctcccagaggttcaactcccagcaaccacatggaggctcccaacca
+>Query: 403 Target: 2110033 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gaaatttatgtataaaaagctagaaaaatggctcagctgttaagagtgcttactga
+>Query: 450 Target: 4118159 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aaaaacgatactggagctggatactggagctgacgcctggacacctaaagc
+>Query: 492 Target: 2038593 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ccgaattaaagtccgttcttggaggaagtagggtatcgaatcaagcagggc
+>Query: 534 Target: 719607 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctgtgaccctgtcctcctgacccctgggctgccacactggaagaccaaagtca
+>Query: 534 Target: 1155098 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattcttggctatgagggagtttgaggccagcctgagctacataaga
+>Query: 534 Target: 1261513 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctttgttggcctaggccacctgtgcagcagactggcagcccca
+>Query: 534 Target: 1490172 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattcttttctgatctatggagacatgacaggttgcatccatgatgg
+>Query: 534 Target: 1533541 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctcacccctccttccatccatcattcaatgcacctggctgcag
+>Query: 534 Target: 2146611 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattcttagctacagagtgagttcaaggccagtctggggtatatgat
+>Query: 534 Target: 2172041 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctctgtgaatggatgcaggatcatagactgcctattctctgga
+>Query: 534 Target: 2406379 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctgatgatcgtctgtgaactgtctgcttgtcttttcagatgctctgac
+>Query: 534 Target: 2473200 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctgagctgtataacaaaaccttatctcaacaaacacacaaacaaacaa
+>Query: 534 Target: 4683812 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattctgtctagtctaatcagttcactccaggttcagtgagacagcctgtctgaaag
+>Query: 534 Target: 4919116 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aggtcattcttcactttatagcaagtttgaggccagaccctgccttgaaac
+>Query: 576 Target: 237948 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaaaataaataaaaggaaaaaatgctagtacacctttgatcc
+>Query: 576 Target: 272869 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaaataatagtaatacataaaccctgctttttatttaaatat
+>Query: 576 Target: 447900 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaacaaaacaagtatatgataaaataaacaaaaataataaaat
+>Query: 576 Target: 475761 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttaaaaaaaaaaaaaagaatgtgtagaagagtta
+>Query: 576 Target: 490212 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaatcctgtgtcaaaagaaaaagggggctggagaaatggttcca
+>Query: 576 Target: 764878 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaatgaaatagagagaagagttgaggggaggagggaaatggaa
+>Query: 576 Target: 775198 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttgggcctgagcgagcggggttgaccagagtaag
+>Query: 576 Target: 784791 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctgtgggctggagcaagcaggaactgagcaagcgaa
+>Query: 576 Target: 879448 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaagttagccagggaggttgtggtatgtgcctttaatcccagcactcag
+>Query: 576 Target: 1127208 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaataaataaataaataaataaataaaaaggttgaaaacc
+>Query: 576 Target: 1223184 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaagccaagggtaagctgggcctgctggtacatgcctatagttctggca
+>Query: 576 Target: 1269880 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaagttaaggacagccacccgagagttccccgcaaagtttgagtttcac
+>Query: 576 Target: 1338122 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacaaatgcatatttaaaaagagtggagaggaatagaaaacta
+>Query: 576 Target: 1609842 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaggttcgggctagtaagatggctcagcaggtaagagcactg
+>Query: 576 Target: 1610015 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatatttgggtcagagcaagcacggactgagtaagcggg
+>Query: 576 Target: 1635383 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatcttaaaaaaaaaaagaacacatcttggggttcacac
+>Query: 576 Target: 1640281 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaatggactggagagatggctcaaccgttaagagcactgactg
+>Query: 576 Target: 1693817 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaattaataaagagagccaagctgcagctatgaacagtggccca
+>Query: 576 Target: 1712266 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttaaaaaaaaaaaaaaaagaaacccagactgtcg
+>Query: 576 Target: 1726221 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaatattaaaaacactaaggtgttgggtgcaacttgtctctct
+>Query: 576 Target: 1855981 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttgggcctgagcgagcagggccgaccggagtgag
+>Query: 576 Target: 1893711 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacaaatctttaagaaaaaaaaaaacatgaccaaaggtagata
+>Query: 576 Target: 2125217 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacttctgcagacgtagaaaaacgaggctgtcttgaggcaggc
+>Query: 576 Target: 2311854 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaacaaaaggaaaagttcaaagcagatgtcccagagcatggtg
+>Query: 576 Target: 2391873 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaaaagcaaattgactgttagtgggttttatttctgttttaa
+>Query: 576 Target: 2393116 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacatagcaggattagtttttcttttctatttgaactatattc
+>Query: 576 Target: 3100565 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacaaatgatgataaaaataaatacattgtgttatgttcttcc
+>Query: 576 Target: 3318650 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaactgtctgatgttatgaggcctcacggtagactgcgcatct
+>Query: 576 Target: 3614277 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctaaaaaacaaaaataaaacaaaattgctttccttg
+>Query: 576 Target: 3648768 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaataataataattttaacaattgcaaagcttgcagccccta
+>Query: 576 Target: 3662101 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaatctttgggccggagtgaacagggactgagtgagtggggtca
+>Query: 576 Target: 3861635 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaagtcacaagcctgggactggggagatggtccagtgggtag
+>Query: 576 Target: 4089743 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttaaaaaaaaaaaaactgaaccagaagcttaaac
+>Query: 576 Target: 4123408 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacatctgcaaggcccctattgcatatcagacgcagtgttaaa
+>Query: 576 Target: 4133042 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaggggtgttcggtttaggggctttttgttgttgtttaccaa
+>Query: 576 Target: 4160257 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatctttgggccagagcgagcggggttgatcagagagag
+>Query: 576 Target: 4163640 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatcttaaaaaaaaaaaagccgggcgtggtggtgcacac
+>Query: 576 Target: 4245598 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaagagaatgccatgcaaatagctgttgttggttattgttggtttttttggttt
+>Query: 576 Target: 4271104 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaattgatctatttaactatgtagatatcaatccattgatctat
+>Query: 576 Target: 4297214 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaatcttaaaaaaaaaagactgctctttcagaggggcagg
+>Query: 576 Target: 4330274 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaagagagaatgagccgagcgtggtggcacatgtctttaatc
+>Query: 576 Target: 4408023 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaaattcaatgtccttcctgtatcaatgcctgcttctggactt
+>Query: 576 Target: 4415931 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaagtaaataatttttacactatagtcctttctttcagtttttattttt
+>Query: 576 Target: 4419853 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaataaataattgagggcaataaagaaaaaaaacacaaaacagg
+>Query: 576 Target: 4652829 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaacttgacacaatgtagcgtcatgtaggaagagagttatagtg
+>Query: 576 Target: 4677179 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaagatgtatttattttatgtgtcttgtatattggctgattat
+>Query: 576 Target: 4840041 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaatctaaatttggaagccagagtagaattcaagtccttgcgt
+>Query: 576 Target: 4976727 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+taataataaaataaaataagacaaaaacccaatagattggcgttgaacaag
+>Query: 618 Target: 845563 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaacgtggatgctagggatataactcaggtccccacacttaca
+>Query: 618 Target: 950722 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaaaaaaaaaaagaaaatatgtcccatagacatgcccacaggc
+>Query: 618 Target: 1783200 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaaaaaaaaaaaaaaaacgagggctagggagactgtcagagag
+>Query: 618 Target: 2088562 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaactgaagaaaaagaacaaagtttccacaaagcctgcttatttacttaagaca
+>Query: 618 Target: 2131915 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaagatggaaattagggaccaacatatgacccccacatacatgt
+>Query: 618 Target: 2380103 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaggtatcattggttctgggtgccatgtttactttgttctgat
+>Query: 618 Target: 2522857 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaagaatcttgctctggtgagaaggttaaatccatgagatctt
+>Query: 618 Target: 2670835 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaagattgtttttaaagcctctctaaattgtgtgtgtgtgtgtg
+>Query: 618 Target: 3087628 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaaaaaaaaaaaaaaaaaagatctgcctggggggggaggggggg
+>Query: 618 Target: 4769674 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttctaaaaaagaaaatccattttaaaggttggcatacctgcccccagatcc
+>Query: 660 Target: 67991 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaataggcaactgggggcagaagtcgagagactgcttgtcagctca
+>Query: 660 Target: 1546568 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaatactcatactcagcctcaaggcatgctgggccatctctctggcttcca
+>Query: 660 Target: 1945024 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaatacggtaacctgttcagccacacagtaagcaagggtagagtcaagacctgaac
+>Query: 660 Target: 2588646 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaatataagctcttaaccactctacaatcactccagtcctgtagct
+>Query: 660 Target: 3274722 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaatatgcatgcttaactactgagccatccctccagccccaaataa
+>Query: 660 Target: 3383393 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+aagagcaataggccacccatattaatgagagtggagatagaggtcaaatcc
+>Query: 702 Target: 3009818 %ID: 13/66 = 19.697 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+attggccaaagatggcagggtgaccaggctggatactcagggatggctttgatgggactttcattt
+>Query: 759 Target: 786033 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggttgaatttacactctgggggtgcagggctataattgactg
+>Query: 759 Target: 1951957 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggtgagtggggtaaatagcctgggacttgtgtcttttttggc
+>Query: 759 Target: 2013920 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggcaaccctgacgccactgagtcccctccttccactgcatct
+>Query: 759 Target: 2915985 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacagtgctgcatcccatgttgtattcacactgtctcaccactaat
+>Query: 759 Target: 3129053 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggaactaattaaaagaaggacgttccattcatctcattaaaa
+>Query: 759 Target: 3131849 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacagaaacaggagtaagttacatacatggtacccccagatccacacactccttct
+>Query: 759 Target: 3907369 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacagaggaagctcacagccaaccattgcactgagcttggggggggggggt
+>Query: 759 Target: 4077994 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacagccgggcgtggtggtgcacgcctttgatcccagcactcggga
+>Query: 759 Target: 4177387 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggtacacacagagtccaaaagaaggtcccctagaactggagt
+>Query: 759 Target: 4452588 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacaggacctgaatattccacgaatatgccataggttattgatagt
+>Query: 759 Target: 4470197 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+acaaatacagacatgcaggtgaaacactcacacacaaaataaaatgaatacgtctt
+>Query: 806 Target: 164069 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaatttctcaccaggtgcttaaaataaaagcccatttctgcagc
+>Query: 806 Target: 198775 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaacaggcgataatgaggtttttgatcccttgtcggccttaca
+>Query: 806 Target: 453446 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaattcccaccagtcagagtatagcagcatacacctataagcc
+>Query: 806 Target: 842266 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaatacaacctcaataagcttccctattgttctaataaatgcaa
+>Query: 806 Target: 1140702 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaaatcttcccacaagtgctcctgcacacccaggattacttgt
+>Query: 806 Target: 1492424 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaatcaccggcgaaggctaaccagtggatctaatttatttagag
+>Query: 806 Target: 2230509 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaagcctctatgaaacaacgttataaacgctcgggagtgatcg
+>Query: 806 Target: 2307375 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaatcaaccttcactttacagaagcctctgttgttcccatccca
+>Query: 806 Target: 2621677 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaattgataagtcattttgtttccctaataatttattttcatta
+>Query: 806 Target: 3532635 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaatattttgttccttaagtgcttgtaaatttttaaatctttca
+>Query: 806 Target: 3580959 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaattagttgctgaatttccatttctcaataaaattgatgacag
+>Query: 806 Target: 3637342 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaaaaaaaaaaggaaagaaagatcccaggctggcttggtcctc
+>Query: 806 Target: 3876904 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaataaaatgaaataaacaaacacctctctgtattcaaacccc
+>Query: 806 Target: 5053129 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ttaataaaaaatgccagtaaagattattcctaagacgctcccaaaatccta
+>Query: 848 Target: 8487 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccacctcatgtacgtgttgtgtgcgcatgcatgtgtatgtgttcc
+>Query: 848 Target: 1849516 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccacataacaggaatctgacacaatattaaggggttctaaaaagg
+>Query: 848 Target: 3013607 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccaccttcctagccctaactctccctcttgcttgtccagagacac
+>Query: 848 Target: 3260858 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccacccccactgaggcagtccttcaagcacctctgcttctagccc
+>Query: 848 Target: 3600526 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccacccccctttctgccaatgcatccatgtttgtgatgggcgtga
+>Query: 848 Target: 3810499 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccaccaggatgaatgccaccacatgtggtgggaggaggggagccc
+>Query: 848 Target: 4211771 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cattaaccaccgcgtgatgatgcacacctgtaaccccagatttacaaaggc
+>Query: 890 Target: 703707 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cgtaagactggcctcctcgacctttcctcggtcttctgctgccttgacatg
+>Query: 890 Target: 3759756 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cgtaagactgcctaaaggtagctgatattgggctgggctggtcagtggtga
+>Query: 932 Target: 1099911 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataacttactggagctgtagttacaggtgggtgtgagccacctgtggatgc
+>Query: 932 Target: 2683801 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataacttactacaaatctgcaacaatacaacaataaagataaaagtatgcc
+>Query: 932 Target: 4802043 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ataacttactgaaccatcttgctaattcccagcctttttacttttatacac
+>Query: 974 Target: 2406047 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gtagcaatatatacaggaaacagctcccatctgagcatgctgtgtgtcctt
+>Query: 974 Target: 2407483 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gtagcaatatttttatatataagttccagtgctgggttcctgtttagttcc
+>Query: 1016 Target: 65369 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+caatgggtgaagctcagtggtgctgtgcttgcctgatctacatgagagatcagtatgtgca
+>Query: 1016 Target: 2289890 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+caatgggtgagaaatgtaaagttctaagaaaaaataactttgtaattagaa
+>Query: 1016 Target: 4022314 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+caatgggtgaggagtgaatgaatagaatgaccctgaggtacgcaccctgaa
+>Query: 1058 Target: 4743751 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+cgcaagccgtgaggatctgagtttggactcccagaacccacataaagatct
+>Query: 1100 Target: 30598 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaatagtcaagaagagccaaaaacattacaagggtttagag
+>Query: 1100 Target: 343596 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaagaaatcttagttccacttccatacatggaaatgggtctca
+>Query: 1100 Target: 500018 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaataaaaagtctcccaagagtattagataaactctgaaatggccgaag
+>Query: 1100 Target: 732921 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaatctgtcatcacctgctcgggcaggagagatggctcagca
+>Query: 1100 Target: 733148 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaatctgtcataatccctgccgtgttgagattatcacccata
+>Query: 1100 Target: 972818 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaatagattttctttattattatttcgtttttactttttggt
+>Query: 1100 Target: 1046735 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaatttaaaataaaaacaaagtgcacagtgcccaaggagca
+>Query: 1100 Target: 1381506 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaaaatcacacagaattcctacactgcattaaattaaatac
+>Query: 1100 Target: 1546432 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaattgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtg
+>Query: 1100 Target: 1718289 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaagaaaagaaagccgggtgtggtggtgcacgcctttaatc
+>Query: 1100 Target: 2178504 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaatactggaattggcttgttgatccaccagcactttcaaata
+>Query: 1100 Target: 2192444 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaacccagccaaacaaaaaacagaatatatgtatatattct
+>Query: 1100 Target: 2505975 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaattgtatttaaaactgataactcctcctcctcttcctcct
+>Query: 1100 Target: 2604707 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaatttactttacatcatttttacagcttgctccctccctcctctcttc
+>Query: 1100 Target: 2747816 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaacatgcattgttgttatgtgtttatgatgtgtgtgtgtgtgt
+>Query: 1100 Target: 2779549 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaagatgatttaattttaatagtgctctgtctaagtatgaaag
+>Query: 1100 Target: 2818908 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaattaattcttaacgtttccctctgcatatttgagttagcagagtaat
+>Query: 1100 Target: 3739850 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaatctatattccgtctccgttaccccagacccaactggggaa
+>Query: 1100 Target: 3850488 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaatttttcaaaaaaaaaatacaaaacaaacaaacaaaaaacc
+>Query: 1100 Target: 4003198 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaataataacgagagagagaaactgatgagagttacttgctg
+>Query: 1100 Target: 4176751 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaatatattgaaaatagccactccaaacggtctctttttttttcccccc
+>Query: 1100 Target: 4247388 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaaaaatattaatttttaatgggcatgggtgtttttgtcta
+>Query: 1100 Target: 4423369 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaaaaaaaaaagaactttagtgggcagtagcgctgcacacctt
+>Query: 1100 Target: 4503320 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaatactggaattggcttgttgatccaccagcactttcaacta
+>Query: 1100 Target: 4943600 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atcttttaaaatcacactgtaagtcctcagacccaactgtgcagttctagg
+>Query: 1142 Target: 1366250 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattattgaaccagttactaactgaggtggttagtgctgtcaacctgaca
+>Query: 1142 Target: 2624790 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattattgactagaccatgcttaaatattccaaaggagaagtagcctgca
+>Query: 1142 Target: 4982991 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattattgatgtatcattagagatatttttttcctccccaaattttgttttgtag
+>Query: 1142 Target: 5059269 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattattgagactgctatagactatgaggactctggaagttggactaaat
+>Query: 1142 Target: 5103385 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattattgacgcattctaaagtttcctgggttgggaaagattcttcactt
+>Query: 1184 Target: 47202 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcatagcaataaatccctaagacaagagtcattcttcttca
+>Query: 1184 Target: 127223 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtgttatgggtcttcagcctgttaggcctgtgaagggaactgcctaccaag
+>Query: 1184 Target: 184335 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacagcactaaaaccctaactaagacaggggtctaggtcc
+>Query: 1184 Target: 224921 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacagctatggaaaccctaactcagacacattgtatccac
+>Query: 1184 Target: 669940 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtcccagcactgacaagggaagccaggggggattcaggatgccagaggctt
+>Query: 1184 Target: 827546 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtttgtagcctctggtggcagacaaacttggtttacaacatgg
+>Query: 1184 Target: 966692 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgctcagcactggggactcatagtggtcattcctgctactactattc
+>Query: 1184 Target: 1145199 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtctttctgagactggcataatttgcttaacacgattatcttc
+>Query: 1184 Target: 1247427 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtccgccaggcccctggcagggctgtcgtgtcatgcagaatgg
+>Query: 1184 Target: 1727540 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcccagcagtgagaccctgacaaagacacctggctaagatc
+>Query: 1184 Target: 2151849 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtggtgatggtgattgatggtaacagtggtgatagtgatgatggtggt
+>Query: 1184 Target: 2482355 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcatagcaattaaaccctaagacaggggtgaggcaaatttg
+>Query: 1184 Target: 2489987 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgctttatcatccccaccaccaattccttttgaggcaggatcttcct
+>Query: 1184 Target: 2673871 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgaatggggtagatcccaaggtggggcagtttctggatggcctgtcc
+>Query: 1184 Target: 2683701 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtcttccataagcaggtacatatgtacgtctgcccacccctca
+>Query: 1184 Target: 2696914 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtggcccaacacatgcatgctgaaagcattctagttcattcaaattgt
+>Query: 1184 Target: 2762234 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttttgcgagctgcagctgtgatgtcatcccaagatacacgga
+>Query: 1184 Target: 2808775 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtatgcatatgtgtgtgtatgtgtgtatatgcccatgcatgtg
+>Query: 1184 Target: 2891367 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttacccctccaggtactggcctgcctgggatgtcaaggcttt
+>Query: 1184 Target: 2902536 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtctgtctgtctgtctgtctgtctctctggtttgattttcagg
+>Query: 1184 Target: 2916784 %ID: 13/66 = 19.697 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtttggtggctgattatgggatggatccccgaatatagtagtctttagatggtcca
+>Query: 1184 Target: 2992893 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacagcagtaaaaccctaactaagacagagggggtagaaa
+>Query: 1184 Target: 3013509 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacagcagtaaaaccttaactaagacaccggccttttatg
+>Query: 1184 Target: 3555529 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttgaatcaatcagctggaatttgtctcattctctgagttaat
+>Query: 1184 Target: 3562819 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacaacagtagcacactgactaacataggagtgggtgcca
+>Query: 1184 Target: 3818479 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtgggtgtatctgtgtgtgtctgtgtgtctctctctatatatgtgtctgtg
+>Query: 1184 Target: 3994991 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtctagggtgaatagacattcgttcacatcaccctgggaaaag
+>Query: 1184 Target: 4014046 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcgaggcacacacaggtgcagggcacatggaaagctttcct
+>Query: 1184 Target: 4213431 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtctgcactggtcatgcacatgtgctctcgctcgagtgtacacagagaaag
+>Query: 1184 Target: 4218820 %ID: 14/71 = 19.7183 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgttacctgggcctctgttaccttttcttctgtctcttttgcagcaaggtctcactatgcag
+>Query: 1184 Target: 4263067 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtggaacctggatgctttgtatgaccttggagctggagttataagcaa
+>Query: 1184 Target: 4600688 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtacatttgtctgttgtgggatcccatacctgtatgtgtggtg
+>Query: 1184 Target: 4729861 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtccatgtggaggccagaggacactttgggaataaattctctt
+>Query: 1184 Target: 4871380 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgtgtgtttaaattcttgattgagctgcctccttgccagtctgtggtcagtgtg
+>Query: 1184 Target: 5057617 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+tggtgtctgttcacagcagtaaaaccctaagacaaaagttggtaccagaga
+>Query: 1226 Target: 333172 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattatagactttggtttggatatatggagttacagaaagtagaagagta
+>Query: 1226 Target: 2607914 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattatagaaccgaaaataattacaccttatggggcacagtagcagagtggggca
+>Query: 1226 Target: 3873751 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atattatagatgataaattcttaggcaagagatgtgctcatgtgtagaaag
+>Query: 1268 Target: 580491 %ID: 13/66 = 19.697 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctggatttttgttcacctcacctttagtaagggtctgattgtgtcctttgcagaaaat
+>Query: 1268 Target: 1104175 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctggggatgggagctcactagccccactcttttgggagggaacttgactctga
+>Query: 1268 Target: 2515682 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctttttaacacccacaaagccctgagatccattcccagcaaag
+>Query: 1268 Target: 3025360 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctatcagaatctaaagtcaccaggcagatgcccaacttcaaag
+>Query: 1268 Target: 3080254 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctcttgccagcatgagagcatgaggacctgaggtccatcctta
+>Query: 1268 Target: 3441593 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgcttgcctggtatacacaaagctctggatgccattcccagcact
+>Query: 1268 Target: 3888789 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctataataaacctgagctatgaatgaggatatacatatacatg
+>Query: 1268 Target: 4929013 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atagagtgctgtctagcatgcccacgccctggcctccatctccagcactgagagtt
+>Query: 1315 Target: 181627 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ccaggtgaatgaatgagtatccaggatgaccacaggtgagcacccagtatg
+>Query: 1315 Target: 1303774 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ccaggtgaatcagagggaggtgagcagtgggccatgcccatcccccagttc
+>Query: 1315 Target: 2255583 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ccaggtgaatactgaactacatccgcagtcctaggctccaagatctttctc
+>Query: 1315 Target: 4621209 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+ccaggtgaattctaggtcagcctggcctacatggccagacaccctccctctctcta
+>Query: 1362 Target: 557962 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctgtttataaggaacagcgaggatggcagcctgcccaggcctcactgt
+>Query: 1362 Target: 608503 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctgttgagaaaactggtcggggatttttcttgattggaacattcaagg
+>Query: 1362 Target: 1409170 %ID: 12/61 = 19.6721 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctgaggggaggaataactggtcttggaacagtttccgtagctccatactgagc
+>Query: 1362 Target: 1772480 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctcccatgggagtgcaggagggccccaactcccaaaagttgtc
+>Query: 1362 Target: 2642776 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctcttttctttctgtgttcactttgatttaaaaaatggtgtct
+>Query: 1362 Target: 4034993 %ID: 11/56 = 19.6429 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+atctcaagctgcaggtttgtttctgtaccctgagaaattccattctgtggaccacc
+>Query: 1409 Target: 1157467 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gagcttctaacttgcaatcctcctgttgcagactttttgagtaaagctggg
+>Query: 1409 Target: 2724963 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gagcttctaagatacttcatttgtttttagctttccagtgtttgattttaa
+>Query: 1451 Target: 112748 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gtgacttaatttacttaattaattgattgattggaatctttgctgttctca
+>Query: 1451 Target: 2601566 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gtgacttaataatcatttttgaaatgtctctttggtgtatgcccaagagac
+>Query: 1451 Target: 3767206 %ID: 10/51 = 19.6078 Strand: +/->gi|387149188|ref|NC_017340.1| Staphylococcus aureus 04-02981 chromosome, complete genome
+gtgacttaatgcagcagccactttggtctgcattgggcttgggtggcctgg

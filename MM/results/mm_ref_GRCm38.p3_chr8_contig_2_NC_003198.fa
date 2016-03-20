@@ -1,0 +1,914 @@
+>Query: 0 Target: 8636398 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+agagattacgtcaataaaactatccttgagaaaaagttgtttactggaaaagcacctcaaa
+>Query: 52 Target: 7027113 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+aaatatatcgccccgttaggtcaataggatgcaaaggaccatatgaaaacacagtcttatg
+>Query: 52 Target: 8715127 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+aaatatatcgtccataatttgtagcttcacttactatgaacaggtcttgca
+>Query: 52 Target: 14236401 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+aaatatatcgtgtcaatatttttgactcctgttgtctattccgaggaaggt
+>Query: 94 Target: 19436 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaattaaaaaaaaaaaaaaagtccacatagttaaccagaggccagtct
+>Query: 94 Target: 243383 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaagtataataaagtgtctacatcgtgacaaaaggaacacagaaatta
+>Query: 94 Target: 1426762 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatgtatttttaactcattaaaaaacctcgctactattaagga
+>Query: 94 Target: 2332392 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaatgcgtgcagaacagggtgtggcccagcggcagagtgcatgctcagcct
+>Query: 94 Target: 2537143 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatcctggtcaaatgaaattgtctacagccaattattggagggcttagaagtaggt
+>Query: 94 Target: 2795169 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacaaaactgtctggcacgttctatagattatatctgggaaag
+>Query: 94 Target: 3177065 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagctgcatcaactcctttttagaggtagacttattcctggat
+>Query: 94 Target: 3439551 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatcaagaccatgttaggtatgggattccaccttatgagatgctctcagggaagca
+>Query: 94 Target: 3859694 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatacaaatctgaaaatttaaatgcaaaggcctcacagatccaatattcaggatca
+>Query: 94 Target: 4011303 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaagaagaagttgagtgggtagggcggtattgaggatctgagggagggga
+>Query: 94 Target: 4516191 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaaaatggaccagccatagcattttccatagcaataacctgcagcatttt
+>Query: 94 Target: 5018979 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaacactttagtaattacccaggtttggctcctcctacagagcaccacattg
+>Query: 94 Target: 5210928 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatatgaaaggaagaaatgagtgaaaatattatgaaataatttataaaatgattta
+>Query: 94 Target: 5273543 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaataattacaaaatactatttatgattttggatagcctttcatttcc
+>Query: 94 Target: 5377927 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaacgtattttcatttatccttataattatttttttaaatcatggtat
+>Query: 94 Target: 6347703 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacatcccacaataaaaggagagagggaaatgccagcatagct
+>Query: 94 Target: 6831285 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagaaactaaagttatattatttcttaatattaaataatgatg
+>Query: 94 Target: 7440086 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaataaattcaaatcctttcccgaatcactttagttatttacga
+>Query: 94 Target: 7942833 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacagccaccatttaatccttctgttcctgttcatgggcacac
+>Query: 94 Target: 8627860 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatcagagctgtaagccatctttagggtattattagattttcctaagtctcttaat
+>Query: 94 Target: 8725259 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacaactgctcatatcagtgaagtcttggttaaacaaattccc
+>Query: 94 Target: 8790176 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagcatcagccatcaagagcagaaactgatgcaattaagggaa
+>Query: 94 Target: 8839828 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaatccttatagaacgttacctgatgtttatgaagagagtaaattcac
+>Query: 94 Target: 8842496 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaatccttatagaacgttacctgatgtttatgaagagagtaaattcac
+>Query: 94 Target: 8863509 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacagtgatcctcttcaataagttgtaaaatctactttgaact
+>Query: 94 Target: 9383372 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagcaagacaaggtggtgtgtgtctaattcaatttgaagcaca
+>Query: 94 Target: 9438396 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaactcacgttgctatcaaaatagaaggaatctgtggtttctaaggta
+>Query: 94 Target: 9463723 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaactaaaagaacaaaaagatttggtggtcactactgcatctgatagcctct
+>Query: 94 Target: 9561077 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatttttagaattccaagaatacatagtatgtacttaataata
+>Query: 94 Target: 9713822 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaggctagaagttaatatagacatctttttcttaaatatttggtgat
+>Query: 94 Target: 10808303 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacctccttgatgctatatttttttccataatattcagattct
+>Query: 94 Target: 11260004 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaaataagacaagccggcatggtggcgcatgcctttaatcccagtacttg
+>Query: 94 Target: 11393045 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacaatgttttctttttccaaggagagaaaacaaattaattga
+>Query: 94 Target: 11496492 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaatgacaagatcaagtactcttgttgttttcgtgttagaaagataac
+>Query: 94 Target: 11559398 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaagaatatgtttatagtttctcaacataataaaatagaattataacaca
+>Query: 94 Target: 12079174 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacttaattgaaaaattagtttaaaaaaaaacttggaaaaact
+>Query: 94 Target: 12130476 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatatatctgatactaaaatatgttaagatttaaagtcggtat
+>Query: 94 Target: 12194379 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaatctatagtcaaatgttaacttcaattcctctaactaaccattaagtg
+>Query: 94 Target: 12543062 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaaaaaaaaaaggctctattttgcgtgcgcccgactcgaaccacactgca
+>Query: 94 Target: 12811496 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaagccatagggtctatagcttgggcaggaaatggaaatggagggtag
+>Query: 94 Target: 13089505 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaaaaaaaaaaagtctatactgagttactattcagtgagtagggacgcacta
+>Query: 94 Target: 13110689 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaggctggtcctccctgggcttcccacccactgaactatgcat
+>Query: 94 Target: 13691475 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagggcatactgttctgccaatcgtattgtgtcttgttgccga
+>Query: 94 Target: 13800590 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaagaaaaaaaaaagactctgaagccaggacagtggggctcattgattcata
+>Query: 94 Target: 14035313 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatcaggcacttccaagttatgctgaattttctctttggcata
+>Query: 94 Target: 14116100 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatttaaagacctgctaattggtacagttactaacaagcattc
+>Query: 94 Target: 15024352 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaattaagttgctctattcttttccattgaaataaaaaataccttttt
+>Query: 94 Target: 15803494 %ID: 14/71 = 19.7183 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaattattattattactattactactgctgctattattgttattgttgttgttgtgtgtgat
+>Query: 94 Target: 16430450 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatgcccctccttaattcattaacctttttctagttttctagt
+>Query: 94 Target: 16687948 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatgacaagaacaaactgagcctgaacatacacatgtaaaaag
+>Query: 94 Target: 16759524 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagaaacaaaacaacaaaaaaaactttaagttgctaacataat
+>Query: 94 Target: 17104116 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatactctctatgtccttactattttaagaaaatatgaaagca
+>Query: 94 Target: 17193771 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaacatttatatgcatggacttctgctgctcccaacttttgtca
+>Query: 94 Target: 17368401 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaagaaaatatgagaaatattggtaaatcaagaaatacaataaaacat
+>Query: 94 Target: 17420597 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatgcctagtgtaggcatgaagatagctgaaataatgcctatg
+>Query: 94 Target: 17534137 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagaattttatgggacagtttataaaaagtgtgtggttcttaa
+>Query: 94 Target: 17666385 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaaatgagcaaaggggctgtgggagatggatcggtgagttagagggcttgctttgcaa
+>Query: 94 Target: 17844371 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaagagataacattaagcaactgcagcctgtgtttatcacattt
+>Query: 94 Target: 17865165 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaaagaccttaacttttacttcagcaattgaaaattgcttaatgagttt
+>Query: 94 Target: 17926850 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatctacatctcatagttaaggaccacaaaaatggagataggg
+>Query: 94 Target: 17962025 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcaatttaaatttttaagtaaaattctatagtcagtggttggaatgtattt
+>Query: 136 Target: 3880290 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccaatatagggactttgcagggtgaagaatttgaagaaaggtaagaaaacc
+>Query: 136 Target: 14708165 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccaatatagggctggagccagagccttgaaggagtccaggtggtagtttct
+>Query: 136 Target: 15951421 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccaatataggcaggagacaagaaaagagcccaaatgtcaactcaccagcca
+>Query: 136 Target: 17516334 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccaatataggtacatagcttataattataacaactgattgtgtgtttttat
+>Query: 178 Target: 955982 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcatattctgtaaaatacttctacctgttaactttgctggtcc
+>Query: 178 Target: 1043529 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcatggtatatgccatcaacagtggattgaagcaggaggatga
+>Query: 178 Target: 2429811 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctccccaacatctcgaggtaatgcacattaacagaactgctt
+>Query: 178 Target: 2702612 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctgacagagctcttaacaccgaatggatcttctagcccaaag
+>Query: 178 Target: 4561875 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcctttcccacatacataccacagacaagcacaggaacataaaccata
+>Query: 178 Target: 5154671 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatccttggactgacacaggcatgttgagaaacaacaggacaaagagtag
+>Query: 178 Target: 5335919 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctgacagagctcttaatgaattgatcttctagcccaaagttc
+>Query: 178 Target: 5653485 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcctttggttcttaaagggtgtggatgtcagttggtaggcaggtattt
+>Query: 178 Target: 6368314 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcccccagagtttatgtgttaaatcttagtcccagtgacgtgacacaa
+>Query: 178 Target: 6592169 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctaaaagattcagaaggtaaagggacaataccaattaagact
+>Query: 178 Target: 7074960 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatccagggcttactcttggcttcattcttggcactgcacactctacaggtcctg
+>Query: 178 Target: 8866733 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcttcctagctgtagcaatgcagagagtgctttctctttactc
+>Query: 178 Target: 9826732 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcccatggcagtcccagatatgcactgctcagaacttcttcagactta
+>Query: 178 Target: 10138658 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctgacagagctcttaacactgaatggatcttctagcccaaaa
+>Query: 178 Target: 10603472 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcggttccaatccaatcgtgggggacctgagacagcattaggg
+>Query: 178 Target: 10925313 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcagcttttaaacacggagccaagagcaggaaatctccacaga
+>Query: 178 Target: 12010936 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcatagcaaagaagtggatcctattaatcaataaactaaatcc
+>Query: 178 Target: 12157277 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctgaaagaacaaaagtgggggtggggggggagtcagtacatc
+>Query: 178 Target: 12524653 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatctgccaggaggcaggttcaaatgccagatatctgggcaccgt
+>Query: 178 Target: 13672774 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatccaccttctttttgttattcctaataaagcatctatcttgtgatagaccctt
+>Query: 178 Target: 14109236 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcaagttactgttactttatcttcctgaaggctattattggca
+>Query: 178 Target: 14352662 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcccacagaactcttaacatcacaatggctcttctagcccaaagttcc
+>Query: 178 Target: 17296353 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacaacatcccacagagctcttaacaatgaatggatcttcaagaccaaagttcca
+>Query: 225 Target: 1432059 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccatgtaattctgtgtaagtagttgttataccacaccatttcca
+>Query: 225 Target: 1704139 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccacagatagactacatagtagttccatcccccaaagaatatcattgtgctgaccttca
+>Query: 225 Target: 3514660 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaaggcaactcttataagaaaatcatttaactggggcaagctt
+>Query: 225 Target: 3597995 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaggaattgtttcctgatggtagccattttacctggggtgaga
+>Query: 225 Target: 3892296 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaatatttttattcatttaagtgcagagttcagtgagtttggg
+>Query: 225 Target: 4836618 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccattcatgcccatctgtagtcagagagcactaaaaaccctggg
+>Query: 225 Target: 5273447 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaaatgtgaaggaaaatagtataaatggggttgggaacttttg
+>Query: 225 Target: 6008847 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagaggagttatcctgctctgtttttcctagggatctttcat
+>Query: 225 Target: 6355087 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccatgcaggaatctcagctattcactcagtaagccactcactga
+>Query: 225 Target: 6356088 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagcaggtacttggcccacactaaaacaggcggcatttgtag
+>Query: 225 Target: 6607679 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccatgcagtttttttgtttgtttgtttgttttgttttgttttgt
+>Query: 225 Target: 6976534 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagaaaaattcaaggactttggtctgacattttctccccagt
+>Query: 225 Target: 7762206 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccatgtttttttgtataattattgtgtttatggcttttgaaatt
+>Query: 225 Target: 7946968 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagaatcagcagctataggaaggctcaccccacaccttaaac
+>Query: 225 Target: 9096361 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaacaacaacattcaaccacaattcagtggctgataggtactg
+>Query: 225 Target: 11164548 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaatggccctcagagagctgaacagagaggagcctgaccattt
+>Query: 225 Target: 11205321 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaggggattctgtgcctccttgagagcccctgtcctgcccact
+>Query: 225 Target: 11449052 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaatggggttataggttatgatatcttcttaaatctgtgatgg
+>Query: 225 Target: 12537803 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagcagtctttatcactattgctctgtaatacaacttgaggt
+>Query: 225 Target: 12575675 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccacagaaacagagattgacctcaagtgtagtatatttctttatgaaagtactagtagg
+>Query: 225 Target: 13363169 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccataattttgagcctttaattatagactggcaagaatgatgga
+>Query: 225 Target: 13477304 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccatttttctttctgctctcaaaatattgtcagtgactaggtct
+>Query: 225 Target: 15135418 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaagcccctattatgtgaatcctgtaagttaactctcagtccc
+>Query: 225 Target: 17005852 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccaaacaccttgaaggagaggaaaaaaagccagtatttaaatca
+>Query: 225 Target: 17050545 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccagctgtaaagcatgttaaccacaaggacaaacagcacagcaa
+>Query: 225 Target: 17628359 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccagcattgagtccatacagaaacccagggaactgatatttgat
+>Query: 225 Target: 18070556 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+accattaccattaggagacatttatttcaatattcttttagcctaataaca
+>Query: 267 Target: 180103 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctgtctcaacaacccccccccccccccgccaataaagttaaga
+>Query: 267 Target: 253414 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctctcaagtacatgaccaacac
+>Query: 267 Target: 389952 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctctcaagtacatgaccaacac
+>Query: 267 Target: 485787 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctctcaagtacatgaccaacac
+>Query: 267 Target: 615804 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctcttaagtacatgaccaacac
+>Query: 267 Target: 753762 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctcttaagtacatgaccaacac
+>Query: 267 Target: 854145 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaagacacatcagaatggctctcaagtacatgaccaacac
+>Query: 267 Target: 949295 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaataaatttaaaatatgtactaataaaacccctgggaagataggata
+>Query: 267 Target: 1627432 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatatgggatgccgtgacaaaaccaaatcttcaaattataggc
+>Query: 267 Target: 1644451 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagatgggatttttcatttaaaaatcccttagtgtctggaaga
+>Query: 267 Target: 1966720 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatgtaggcgagggcttggcctgtcatactaccatctacttccttgc
+>Query: 267 Target: 2078035 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaataataagtacatatttttaaagtttcacagttctttagaaaatgatgt
+>Query: 267 Target: 2283378 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaacgtgaaaaataagaaatacacactgtaggacctggattatggcga
+>Query: 267 Target: 2373629 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaggctcacgagactccacccctagctgaggagctatgaggag
+>Query: 267 Target: 2762335 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgaataaaaaaaaattttaaactatataattaatgtataat
+>Query: 267 Target: 3005141 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagcatgcatgcacacacaaatgcacacactgaaacacacatg
+>Query: 267 Target: 3086003 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacaaagactcaaaaaaaaaaaaaaaaatcaaacaatccatcc
+>Query: 267 Target: 3670127 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatggtgtgggcaaaggtgtaaggatagagacccaaggtgctg
+>Query: 267 Target: 3680080 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacatctctagactagtccctgcaggggtggaatgagcactgc
+>Query: 267 Target: 3839778 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagttcactagagtattcagaacattaagctagtaaagtatattcaa
+>Query: 267 Target: 4073792 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaaaaggggaggtggggaagcggtgggagtcagcttcaagttcacaaaaac
+>Query: 267 Target: 4139677 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaagcactcgtctgcaggctttctgtagctgacttgaaacagaggcttggt
+>Query: 267 Target: 4523986 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagatctagagcgatcactcaataaacacatcaaaggccaggc
+>Query: 267 Target: 4595141 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctgaattcctccagactctcaaatataaacataaatcccatgg
+>Query: 267 Target: 4610294 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaataaataaatgaatgactggaagaaaattgtgtgaggcccttccaa
+>Query: 267 Target: 4895417 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagaaaacagagcatcgaagaccggtaactggtaaattgattt
+>Query: 267 Target: 4964456 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaactttgtctcaacataccctaaaaaaagaaagagggcaagtggaca
+>Query: 267 Target: 5005509 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaaattgaaaaagaacaaagttgacttggcaggggatattaaaaggaaaag
+>Query: 267 Target: 5012133 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctgttttgaaaaacaaaaaacccaaaataacaacaaaagagta
+>Query: 267 Target: 5153480 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatcctgtctcgaaaacataaaaccacagaatcacccatttgttttg
+>Query: 267 Target: 5384779 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctatcacaaccaaccaaccaaccaaccaaccaaccaaccaacc
+>Query: 267 Target: 5436725 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacacttgttacatttgaattgcaggtgaataaattttggtgt
+>Query: 267 Target: 5471162 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatataaacgctttcagaaatgtaccccttcttttccccgtgt
+>Query: 267 Target: 6006209 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaactgtcttgtctcctctcttgcagatatatatgtgtgtgtgtgtgt
+>Query: 267 Target: 6091551 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagcagatatatgtgcaacaactctataaatatataactatca
+>Query: 267 Target: 6782919 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaattttaaacccagctgtacatatgaaatcacagtcattgtagttacacgt
+>Query: 267 Target: 6823269 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgtggcacatttacacaatggagtactactcagcaattaaa
+>Query: 267 Target: 6905292 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagagaagagaaagaaaaaaaggaaggaaagaaagaagggagg
+>Query: 267 Target: 6909827 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatcatgcaagcatcgatttttcataaagcaccagtccttcag
+>Query: 267 Target: 6939862 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaatagtctcacttcatctgaattataaacttatcaagaaagaaacatggga
+>Query: 267 Target: 7061189 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaattcacacatattttaggttttatattgttggccactgcctt
+>Query: 267 Target: 7276031 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagactttccatacagaacacagttagctcaggtactaatatcaaca
+>Query: 267 Target: 7407523 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaataacttgactcagagaagggtcatggtgaccatataccctgttat
+>Query: 267 Target: 7477697 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatctgggatcaaatagtctgatccatatgcatgtacatatggatat
+>Query: 267 Target: 7796346 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatctaaaaaccaataggggaaagagttgaaagcatcctgtct
+>Query: 267 Target: 8107919 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgggaagtggcatgcaaaaaaaacaaacaaacaatcaaaca
+>Query: 267 Target: 8177732 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatatcaccaaaggagtacatcataaagcacaaaatcctatac
+>Query: 267 Target: 8202153 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaactgaaatttagaatgagagtcatcatgtcggtgacctaaac
+>Query: 267 Target: 8553663 %ID: 16/81 = 19.7531 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaagccccaggaagaaacttaggacattcgaatccagcatagactttaataatatttattttatattaatat
+>Query: 267 Target: 9017201 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaagaacttaaatcactagaagaaatgagctgacactacccctttggttatgtatac
+>Query: 267 Target: 9222290 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaggcaccaagctgtagaaagtcattatctcttaatgctatagttag
+>Query: 267 Target: 9314121 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagaaatataagcttgaactcttggatccagcaagatggtttg
+>Query: 267 Target: 9476665 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacagcatattgcacagatgtatttatataaaaactaacaata
+>Query: 267 Target: 9540952 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatcaagaagagggaagactaatgggtggatacttcattcctcctta
+>Query: 267 Target: 9627457 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagcaaacatgtcccagctcattatgaattgttaatgtcctgt
+>Query: 267 Target: 9802510 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacattgaaatctagaaaaaaattaggcatcctctctccagtc
+>Query: 267 Target: 10234608 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagaaatgcaggaaagagccaggacaagacacagccttgagga
+>Query: 267 Target: 10362469 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccgtgtctcgaaaaaacaaatcaatcaatcaatcaatcaatcaat
+>Query: 267 Target: 10371076 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacccataaaaatgaaatcagaaaatatcatctataagcaaaa
+>Query: 267 Target: 10400155 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagctgcgctggaaacggttaccctaattatgtgtgtgttggt
+>Query: 267 Target: 10626917 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaccacaaaaggtcaaatagaatttgtatgcctggtcccaata
+>Query: 267 Target: 10712184 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagtcaaagaagctggtagaatggtttcatggagtgtttttat
+>Query: 267 Target: 10792526 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagcaagctgtaattaaactggaagcctcttcctttctaatttgctt
+>Query: 267 Target: 10947409 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagggggctagtttggaatatattcatcaaactattatgtgtg
+>Query: 267 Target: 10973575 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagctttctgccgtaattgaagtagaaagacaagaatcctgga
+>Query: 267 Target: 11278928 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccttgtctcaaaaaccaaaaacaaacaaaccaacaatatctctaa
+>Query: 267 Target: 11514593 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatcagggttcattaacaatagaatatcactgtttaaaatagagagg
+>Query: 267 Target: 11537707 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagcagcagagaagattcgagaagagctgaggatgaacagagctcca
+>Query: 267 Target: 11629064 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacacacacatctctctctctctctctctctctctctatctat
+>Query: 267 Target: 11657804 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagagagagacagagagagagatagagacagagagagacagaggaag
+>Query: 267 Target: 11954819 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaagcagaaaatcactgtgaatgggagagttgaggtttggggcactgagct
+>Query: 267 Target: 12060244 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctgtctcgaaaaatcaaaaaaaaaaaaaaaaaaaaaagaaaaa
+>Query: 267 Target: 12088218 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaactcagctgttgaacaagaatgacaccaataaacattgccaaaccaaata
+>Query: 267 Target: 12301468 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaagaacaaagagtaatagaaaccataaaactatctccaactaaattttatcaccca
+>Query: 267 Target: 12332700 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacctggggtcaagtgggtcatgcacactttaatggaacagaa
+>Query: 267 Target: 12431016 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaatggaaaagagcttgttaagaactttaggttaattgagtattgaaatgat
+>Query: 267 Target: 12514726 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatcaaactggaactgaccggatgcttcagtttcatcctgccagtca
+>Query: 267 Target: 12726777 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataataaaataaaaaattttaaaaagaaagcttttttttttt
+>Query: 267 Target: 12828329 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaactctagaaaaagaaaagaaaagaaaagaaaagaaaagaaaagaaa
+>Query: 267 Target: 12942053 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagacagatgtaagaactttgaaatcaaaacccaagagcatta
+>Query: 267 Target: 12983822 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagtgcttctggggacaaggaagacataaaggacagcaaagag
+>Query: 267 Target: 13104606 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgagataataaaactgaagggtagtgacaggctggccaaga
+>Query: 267 Target: 14030206 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatacagaagtaagagaggaggcctgtggcagcaaaggatgat
+>Query: 267 Target: 14035021 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaataaacagctgcgaagtttatgaagtcaataactcagaagat
+>Query: 267 Target: 14103696 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacacacaaactgttcccaagccccccacctgattacctagaa
+>Query: 267 Target: 14361973 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaataaaggatcagagtaagcaaaaacaaatgaatgtggagtatttatggaa
+>Query: 267 Target: 14484957 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacaaagtaagccacacgaaaaggctgactggccatagctctg
+>Query: 267 Target: 14485117 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaacccttaggccaaacttaaaacataaagccaagcttagtttgtgat
+>Query: 267 Target: 14606985 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaggcctgcctccagggtgggagaggggtgaggagctgagcag
+>Query: 267 Target: 14607543 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgtacaatatatgttaccttttttttttcttatgctggctc
+>Query: 267 Target: 14838727 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacaattaaattcatgcagttgttggtcgatttgaggatcagg
+>Query: 267 Target: 14995172 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagagagaaggggaggaaggtagaagataggggagaaggagggaaag
+>Query: 267 Target: 15088959 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagccccatctcaaaaacaacaaaaaaatttctaaagtgctaa
+>Query: 267 Target: 15374519 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaacatttgacatttctaaacattttggaatccatgaattcaga
+>Query: 267 Target: 15472250 %ID: 13/66 = 19.697 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaagaaaatagtccaagattctggtgcgctccagtcatggcaaataaaaacagaaaa
+>Query: 267 Target: 15556833 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaattagggtaattataaaacaggtacagaatttcctttatcatcaaa
+>Query: 267 Target: 15785277 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagagagagaaagaaagacagacagagacagacagacaggcatacac
+>Query: 267 Target: 15785365 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagagagagagagagaaagaaagacagacagagacagacagacaggc
+>Query: 267 Target: 16103215 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgaaggtagtggttgttctctttcttggggaggtgaatagt
+>Query: 267 Target: 16444336 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagtgttatcaagacatggaaccattgtcataaatctagccgt
+>Query: 267 Target: 16507025 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaattggggaaatctctattgtagccatacattctgtctgatga
+>Query: 267 Target: 16509477 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagctgctagaatataattggagtattgacaaagaacatttgt
+>Query: 267 Target: 17145394 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaaataacatggttaaagaaaataattataataatacattgcaaatgtcaat
+>Query: 267 Target: 17244596 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaggctgaaagctctaatgactgaaatgcaaactcatccaacc
+>Query: 267 Target: 17263927 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaattgcacttgcttattgcaatgagttaattttaggttttcac
+>Query: 267 Target: 17276393 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaagaacaaatgaaacattgaataaaatagaactaaggccatct
+>Query: 267 Target: 17285633 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagaaagtgacagagtcaggatatttaattcattaggacaaagggcc
+>Query: 267 Target: 17367774 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatacttcataggtacaaattcaaataacatttcaatgaaataacca
+>Query: 267 Target: 17466427 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaccctgtttcaaaaaactaaaaaaccaaaaaaaaaaaaaaccaaaa
+>Query: 267 Target: 17524967 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaagatcctatcttgacaaaaccaaaccaaaataccctttttgtaaaa
+>Query: 267 Target: 17533997 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaattttccaggtaaggctaatgtgactggtaatcactgaagtg
+>Query: 267 Target: 17576846 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatccctgggacgatcacacctgacagtgtagcatcattttctgcat
+>Query: 267 Target: 17975109 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaacaaacattatgttgttatgaactaactagtaccctggagctcttg
+>Query: 267 Target: 17976104 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaatacacgtattcattaaagaaaacaaaaaatgggactaacaaacag
+>Query: 267 Target: 18058611 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaaaatacctctgccagcttggagaaaactctagctaacatgccatcactatct
+>Query: 267 Target: 18262267 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+acacagaaaatgtccatagactgaacgtaaaggagtaatgacgttcaaacc
+>Query: 309 Target: 3926972 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcgaccagagagcgtagcatttctccctttctttttttaatttttagccgaaattc
+>Query: 309 Target: 12572019 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcgaccagagcttcccaacacttcaggatgacacaccagattcctaacata
+>Query: 309 Target: 13127892 %ID: 11/56 = 19.6429 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcgaccagagagagcagagatcctaaaaaaattaatttttcaataaccacatgaaa
+>Query: 309 Target: 14114764 %ID: 12/61 = 19.6721 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcgaccagagatggtgggaagcaagggaaaggaggtaccaaaacttcctagagtggtgcac
+>Query: 309 Target: 18305433 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tcgaccagagtgcatgacaagttcccaatactctgagcagtagcttgtaat
+>Query: 351 Target: 2317212 %ID: 10/51 = 19.6078 Strand: +/+>gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcggcggtagagtgtttgcccagcaagcacaaaggctctatcaccagaca
+>Query: 0 Target: 24194 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagttgttaaaggtggcattctgttcttgtggctgtcttcttt
+>Query: 0 Target: 106529 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaatttagcatatgtgatcaatcttcatagccagctcacttatatttttcca
+>Query: 0 Target: 180697 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattattttacctatttctagagtgtacacaaatgtcaggttc
+>Query: 0 Target: 180705 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacctatttctagagtgtacacaaatgtcaggttccactgact
+>Query: 0 Target: 322756 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaattacttttatattcataacagtaacagtgacaggaaagcaactct
+>Query: 0 Target: 861772 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctggggatacgtttggatggatccacaacaatggcccatt
+>Query: 0 Target: 1251202 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagtaatcagggtatagttatgtgtgtatgttacctacagtgt
+>Query: 0 Target: 1528759 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttacaatccaaccattgcccccatcaccataccccctccc
+>Query: 0 Target: 1668328 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttataatttgaaagatctaaaaatgcattttcttttgtagttat
+>Query: 0 Target: 1718715 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgtataggtgttctgccagctacctatctatgcatgaca
+>Query: 0 Target: 1925794 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgctttactagagatacagcatataaaactttcagatttaa
+>Query: 0 Target: 2394115 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacgaatgttttgccttcatgtatatatgtgcatgcctggtgt
+>Query: 0 Target: 2397213 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttttggttttttcgctggctgtcctggaactcactcagta
+>Query: 0 Target: 2538368 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctagagcgatagattaaaataacaagtggtactaattttt
+>Query: 0 Target: 2622554 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttaaataggaaaagcacacatgctgcttctatgtgactca
+>Query: 0 Target: 2930656 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatatttatatagcgccttctttaagaaccttttaaatgcttt
+>Query: 0 Target: 3325200 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattaagtattttcttcatttacatttccagtgctatcccaaa
+>Query: 0 Target: 3470467 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattaattattttattaatagcacagaccagttttgtagtcta
+>Query: 0 Target: 3816401 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgattacacacattactattcacatatagttttacaataca
+>Query: 0 Target: 4137497 %ID: 14/71 = 19.7183 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaaaactaatgaaattcagttaatatacctattattaaacttctttatgaaagattatgaa
+>Query: 0 Target: 4160265 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacctattttacataaatttattcatttatatgcatgtaaaca
+>Query: 0 Target: 4204127 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagtatccttactaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaacg
+>Query: 0 Target: 4431545 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgtatgaatattttgcctgtgtgtatgtctgagcatcat
+>Query: 0 Target: 4564893 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttcactgacgatggtcagatctatcatgtaataatttttt
+>Query: 0 Target: 4730570 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatcttaaggcattttattttgtgtattttcataatgcaaaat
+>Query: 0 Target: 4805004 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgcatgagtgttttgtctgcatatatatgtgtgtgtgtg
+>Query: 0 Target: 4810585 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgtattttgcctgcttgtgcatctaggtaccacatgagt
+>Query: 0 Target: 4867885 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattaagttgctttaaagctacaggtctaaaggctatttgtgg
+>Query: 0 Target: 4950568 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtaagtacactgtagctgtcttcagacacaccagaagagg
+>Query: 0 Target: 5062244 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctggggatacgtttggatggatccacaacaatggcccatt
+>Query: 0 Target: 5071423 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagatactatttgcaaactacattccagaaatggtggagctct
+>Query: 0 Target: 5073841 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactaaatttttttgccatcttcaaagaaattaggttttctaa
+>Query: 0 Target: 5108809 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatttatgtgtatgggtgttttgcctgcatgcctatgtatcaggcat
+>Query: 0 Target: 5190750 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagcactatttttgccatctttaagaatataccttaattctggtata
+>Query: 0 Target: 5251496 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattataagtgcctttaaagattgaattttaacataggtaagc
+>Query: 0 Target: 5328982 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacacgcttaaaacatttggttatcatttgacaaatgcctaag
+>Query: 0 Target: 5440421 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatacttttataacatatatgccttaaaaattctatccaattattca
+>Query: 0 Target: 5536940 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttataaatcagggcttttaccctaacaatgcagagggccagttt
+>Query: 0 Target: 5741791 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttaccccaaaagctaatgataaggctaggtacttgcccta
+>Query: 0 Target: 5957229 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagaaatgagaaagcaggttcagaatgcctcttagtgctacct
+>Query: 0 Target: 6054128 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttattttattttattttattttattttattttattttgg
+>Query: 0 Target: 6220480 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttattattctgtggggtgaggtgggagttgggagctatgc
+>Query: 0 Target: 6319268 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaattacatgtgtgtttatgtgtgtatgtatctgcatacctatgtagg
+>Query: 0 Target: 7119507 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactttgagacaacatctcactaaggtatccagcccaaattta
+>Query: 0 Target: 7228347 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaatttttttaaaagatttatttattattatatctaattacactgtagctgt
+>Query: 0 Target: 7260714 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaccagagccctcgattaaaagactttggatattgtagagtgt
+>Query: 0 Target: 7342657 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatctcatgtatctatgagtgtatatagccgagaacatatttg
+>Query: 0 Target: 7440195 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatatttaatcctgaatgaagcaacatttatttcacccttttt
+>Query: 0 Target: 7467738 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatatttacctaaaattatacatattatgtgtcttagttgggg
+>Query: 0 Target: 7508303 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaacagcccacactttagctgcagcacagggagaaatcaatattaaatggag
+>Query: 0 Target: 7513490 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactctttcttagtattcattggttgcctgtagttctttatct
+>Query: 0 Target: 7560464 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatccccaacttagtgcttaaaacaatgtccattgatttaatt
+>Query: 0 Target: 7608316 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatccaatgaagactcaacacatgttttgaagtatctgttctg
+>Query: 0 Target: 7829346 %ID: 13/66 = 19.697 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaataagcttgcaggctgagcaaagaagaaagaaaacagaaggcacaattaaatgg
+>Query: 0 Target: 7888471 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatcaatgttaattgtctgactatgataatcatgttgtcacat
+>Query: 0 Target: 8137078 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattcaatgagtataacagagttgatgttctgatcaagtctgt
+>Query: 0 Target: 8358122 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgttctctgagcattgtgcaagttcatcattatatctcggg
+>Query: 0 Target: 8362679 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatagaactcaaaatgacactgtattcctgaaaggggtagagtcata
+>Query: 0 Target: 8494720 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaattctaagaattgaatcccaagccttgaacatgctagca
+>Query: 0 Target: 8500706 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatcttattttctgataactatatcatataaaaatatcactga
+>Query: 0 Target: 8787203 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatctattttattattagtggtgttagtaataataataataat
+>Query: 0 Target: 8799909 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaagaccattggagttgaagaaatgttgcagttgttaagatcattggttgct
+>Query: 0 Target: 8831926 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttaattattttttccattccatattctattccccacccc
+>Query: 0 Target: 8885008 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatccccaaagctatctacattgaggctttacagggtgaacaaatct
+>Query: 0 Target: 8944156 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatggaggaggatattgtgagagcaaacattctatataaggct
+>Query: 0 Target: 8949738 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagtgttattattatatgtccttacagagtcctcagatagaga
+>Query: 0 Target: 9083247 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacagtctagtctttgccttactcccagtttactgccctccca
+>Query: 0 Target: 9108195 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaattacaagtaaaatgatgtttcatctttaatgtctatgtagacaca
+>Query: 0 Target: 9153192 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattatctcagccacatgctctgtgatgttgagcttcaaaggt
+>Query: 0 Target: 9160149 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttcagcactggagatacctaagggttgtgatcttcttagt
+>Query: 0 Target: 9163522 %ID: 13/66 = 19.697 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaactagccagatggcacaattgctgggcaattattagctgacctatttcagccaa
+>Query: 0 Target: 9184572 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaacactcagtaggaaattatcattttctttttaaaaggtttgctgaa
+>Query: 0 Target: 9265459 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaatacaaatgaatcagaaaaccagcatcattttgtttgct
+>Query: 0 Target: 9397680 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatgtatattcatgccatcagtggtcatatctggccaggtcaatcat
+>Query: 0 Target: 9630353 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttacacagacttaaaaaaggataaagaacagagaatttca
+>Query: 0 Target: 9728639 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatcactttaattttgcagaaagccacgcagctgtcataatatcacg
+>Query: 0 Target: 9984739 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatttgctgaaaatattccatagctcaatttatagaaccaaatcttg
+>Query: 0 Target: 10036565 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgagaaatgaatcaaagtccaaaaggtatatattatactgt
+>Query: 0 Target: 10132851 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatatttaaagtatttttcatctttatgtaggactggagagatggct
+>Query: 0 Target: 10449373 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatctaatgacaccgacactgttaagtgttggaaaaggggttg
+>Query: 0 Target: 10509609 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactattcttatatttgtatagaatatgtaaggcagatttagg
+>Query: 0 Target: 10591059 %ID: 15/76 = 19.7368 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaaatagactttggtttttagagccatttcaggctccagaaaatcacatgcagtgccatcactttg
+>Query: 0 Target: 10610617 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaggtttatttatttttattcatgttgtttcacgtttctttat
+>Query: 0 Target: 10669219 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatgactcaatttatattctgctaactgctcctccttccacaatccc
+>Query: 0 Target: 10675851 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttttgtggctattgccaaagggtttgtttctattatttct
+>Query: 0 Target: 10709444 %ID: 13/66 = 19.697 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaatttagttttccacacttttcctgactgagctgagggcagactgaggggctgtt
+>Query: 0 Target: 11055587 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagtctgggctagcagttcatagaaaagtctaattttctacaaggaa
+>Query: 0 Target: 11141756 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttatatttaggtgctaatttagatagatctccatagtcat
+>Query: 0 Target: 11314162 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatttaatactattaatgaatagcagttaacactgtagcaaataaac
+>Query: 0 Target: 11330171 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctaagaaaaactcattagtaaataaaaggaaatttcatac
+>Query: 0 Target: 11399339 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatagcaatactgtgcatgttatatagagaaaatcctccataa
+>Query: 0 Target: 11461818 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacatttctattcaaaatgcatgtgtgattgagatctcccatt
+>Query: 0 Target: 11530878 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctttcatagttacagatattttagctttcatagcttgtag
+>Query: 0 Target: 11565797 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttctgtgcttgggtaatattagaagggtaggcgctccatt
+>Query: 0 Target: 11586647 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaaatacaacatatatatttatataaaaatcatatatatgt
+>Query: 0 Target: 11715582 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaggaaactcttaaaaataagggatgtcctgcttttagcaatgttttgaaa
+>Query: 0 Target: 11855394 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattataagtgcctttaaagattgaattttgacataggtaagc
+>Query: 0 Target: 11926094 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaataaggtataactgaacccattcaacaaatggtgctgcatcaggta
+>Query: 0 Target: 11969299 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatgcagatccactggaacatatttaaaaaggaatttgcattagtta
+>Query: 0 Target: 11982680 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaggcactgaaggcacttcttatttctccaacttttaggcaataacc
+>Query: 0 Target: 12067062 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatcttcgcttcaagtttatgttaacatatatgctgagttaatacac
+>Query: 0 Target: 12154245 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaactagatattacagcaagagcaacagtttgtgctatcaattataatttta
+>Query: 0 Target: 12422006 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttattttatttttttatgtgttcactttccatcctgctc
+>Query: 0 Target: 12844900 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatctttgtaaagaccactgagaaggcactaacattgccactc
+>Query: 0 Target: 12936954 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtctatggatgttttgtctgcatgcatgtctgtgcaccac
+>Query: 0 Target: 12963157 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatacatgtctagtataagaatgggatacgtggctagacacct
+>Query: 0 Target: 13418093 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaagtttcatatgtgtattgtatttacacagtttctcctctcccttttcttc
+>Query: 0 Target: 13459171 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattattattattattattctcaaaataggatttctctgtgta
+>Query: 0 Target: 13490692 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaccttcttttttttcccctttatgacaacaagcaagccatga
+>Query: 0 Target: 13524984 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagctttctttgttttgagactggatcttactatgtagccctg
+>Query: 0 Target: 13554815 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatctatcatctatctctatcatctatttatctacctacctat
+>Query: 0 Target: 13589887 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttgtgtgtcttatgtcaacatgtgtgcccacagagtctgg
+>Query: 0 Target: 13737244 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaagatggcagagcgggagagatggcttagtagtcaagagcacttgctactc
+>Query: 0 Target: 13896069 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgcattgtgttttgcctgcatataggtatgtatgggagt
+>Query: 0 Target: 13951609 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattctaattagactgattatgactacgaaagtgaagcagttt
+>Query: 0 Target: 13976921 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgtgtatcaacggtttgcctgtgtcttagtcagggttctat
+>Query: 0 Target: 14074639 %ID: 16/81 = 19.7531 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaaattgtcttccttttctaaggaaatgaagttgctttctgacttatgctgaacttgggacagatagaatg
+>Query: 0 Target: 14174687 %ID: 13/66 = 19.697 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaattattgttttaaaagttgagatttcttttactcctgtgagtgctttgcctgca
+>Query: 0 Target: 14339084 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattgttatgtgtatgggtgttttgtctgcatccctgtcatgt
+>Query: 0 Target: 14506472 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactagggctgctgtaccaaagtaccactaacaaggtgatttt
+>Query: 0 Target: 14586202 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagaatagctgggattgtctacaaagacggctatgccatctga
+>Query: 0 Target: 14958920 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagatataacatacacaaagtatttttgttgtcaaacttttgc
+>Query: 0 Target: 15061033 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttttttccacttgtgaccctcacttttgtctgagaatata
+>Query: 0 Target: 15169174 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaaagtggccctatgaagaatgaatttagcatctctttggt
+>Query: 0 Target: 15463616 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagtttcctacttttgttgagtcttgctttgtttcctaatatgtgac
+>Query: 0 Target: 15548877 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatttttaaaattggtctatctatctatttatctatctatcgt
+>Query: 0 Target: 15601357 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatgaaagttcatcttcataaaattgagcttcaggaaaattgc
+>Query: 0 Target: 15617185 %ID: 16/81 = 19.7531 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaaattgataagattgcattcatgggagtgggtttatactcttcacactgtagatgacgatcaggtcctaa
+>Query: 0 Target: 15682433 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattattattattcatgtttgattttgtttgtgtctaccgggg
+>Query: 0 Target: 15837189 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttttattttagaatcttaccagacaaccaacagttcacc
+>Query: 0 Target: 16046200 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagagtataagtttaatagttgtgtgattttaatattggtgaa
+>Query: 0 Target: 16097785 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaataacacagtgctgtgagttaactacacaccggtataat
+>Query: 0 Target: 16160593 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatacacctatggcattaaaactaactgaatttcgtaactatg
+>Query: 0 Target: 16200852 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttataaaatgctaattaaattaagcaacaaaaccataatgaaat
+>Query: 0 Target: 16259986 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacatatcaatccagtcatttactccaggttccttttgatttt
+>Query: 0 Target: 16312745 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatactcctgaagggatttgttttcaaataccatttgcataag
+>Query: 0 Target: 16420734 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacttccttatttttaaagaaggttttctgtattccacatgaa
+>Query: 0 Target: 16458737 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagggatatgggtctgtttaggtcattaatctgatcctaatttaact
+>Query: 0 Target: 16567057 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattatatacagagctattattatacagagatccagtctcaaa
+>Query: 0 Target: 16636617 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacagtgtatgtgtatgtggacaaaaatcatttgggtctctgt
+>Query: 0 Target: 16697176 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatatcaattagtggaaaatgttaattgactgaagttatcatg
+>Query: 0 Target: 16759704 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaatgtgtatgtgtgtatgtgtgtatgtgtgtgtcctgggtgacctgcatta
+>Query: 0 Target: 16799452 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaataagttctattattttcctttcaagcagataagattgtcattgag
+>Query: 0 Target: 16808574 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagaagcgggaaaattaaacaaatacttgggacaccctattta
+>Query: 0 Target: 16875121 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttcctgctgtacatttggaaacagaattgggaatgagaa
+>Query: 0 Target: 16888811 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatcatagtagtactcaaaaaaaaacatttgtggatactaaaa
+>Query: 0 Target: 16910081 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactatacaaatttcctaatatattatgctggtacattaaaca
+>Query: 0 Target: 16931621 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttataatagaagaagtatatacatatgcagccctcacttagggg
+>Query: 0 Target: 16991762 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagccccttcttttgtttcccaagatacaccatttcttcattg
+>Query: 0 Target: 17080498 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttactggtaatgcctgtcaatttggcaacatcatgctagaaact
+>Query: 0 Target: 17092593 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttataattatctactaattattttgatcctatttaaaccaactc
+>Query: 0 Target: 17213919 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaatcatgtataggatgtgtctgcaggcaggaatgcactctgaataaa
+>Query: 0 Target: 17231559 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatacaatcaatctagtcatttactccaggttttcttttgatt
+>Query: 0 Target: 17281365 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagaatccctaataatgttttaagcatcaatgtaaaaaaatatctag
+>Query: 0 Target: 17391462 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttacaaaatttaaaggttgatagtttaatcacattttatgcact
+>Query: 0 Target: 17417373 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaggctggttattatcatgttttttaaaaaattgtcaacttcatgtc
+>Query: 0 Target: 17444694 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatatgatggttatactagcctaggttaactggctaataaggc
+>Query: 0 Target: 17449223 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaacactaaggaatcatccatgaacaagtaaaattagcactggtcctc
+>Query: 0 Target: 17528737 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagatcccttattaatatgattggttaattcatgggccacaac
+>Query: 0 Target: 17571684 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagggaaatttatataatggagtatttgatgcattaattcatt
+>Query: 0 Target: 17594098 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaagtggtatttatgactattatcattccatagagaaacaggatctgt
+>Query: 0 Target: 17725986 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttagtaataacaaaacaagatcactcaaatgcatgaggacttta
+>Query: 0 Target: 17809426 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaccacacatgctagagttcaaactttcattgggcaatgtctctgtgaatt
+>Query: 0 Target: 17883667 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattattttatacaaatttgcataaagattcagataattatca
+>Query: 0 Target: 17883675 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatacaaatttgcataaagattcagataattatcaagaatctg
+>Query: 0 Target: 17910367 %ID: 13/66 = 19.697 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttaaaatagtaatgtctttcataaatgactgttcataagcatatacttaataaagcact
+>Query: 0 Target: 18195533 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttattttttggggtgggggggactgctgtgatatacaaagcaga
+>Query: 0 Target: 18243594 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+tattattttatcctaattattaatttaagtaaccagaaaccatatattggg
+>Query: 42 Target: 1226366 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagccagctaaatttacaaaataaaaattctgagacagtggta
+>Query: 42 Target: 2514874 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagcaaccagcacggaatcccttaaaagaatgggaaggaagta
+>Query: 42 Target: 2806578 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaagacatctggagttcatcttgagatttggagttaggtaaag
+>Query: 42 Target: 3322877 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaagtcacatgcacaagaagattgttatacatcaatcacatgg
+>Query: 42 Target: 3559623 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatccatattttaagcaggagttaaaggctgatcctgggatgggaatg
+>Query: 42 Target: 4164229 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagaatagacctcaactattagcagttttgcaaactcatcaaa
+>Query: 42 Target: 4324682 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaatgatggaagtctttggaacaagtccacggtgcctgctgcc
+>Query: 42 Target: 4393404 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagtgactgttcttcctcgtgtaaacagatgaaatccgctgca
+>Query: 42 Target: 6229590 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcattactcctaaagtctgggaatggagagagagcacttactgctctta
+>Query: 42 Target: 6557857 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcataggctgtgagaatcacaccgacacggccttacacaccttcagaag
+>Query: 42 Target: 7050717 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagtttcctatggcagtctaaaatgaaattagaattcctgctg
+>Query: 42 Target: 7377073 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcacaacttccagaaatatatgtgtctttcctgtacaaattttc
+>Query: 42 Target: 7498496 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcactgattgtttggttcattttttcacattgtccaatttaatc
+>Query: 42 Target: 8000599 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcattctccattgcctctttgactaatactcagttactaaaactattat
+>Query: 42 Target: 9248460 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagatgatctctgtgagtatgtgattacagagtcagtcccagg
+>Query: 42 Target: 9525459 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcactaaccagttgggaaattggcaaaccagaatgagataaaac
+>Query: 42 Target: 10939686 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaatcattagcatctcctcgagggcaagtttcagccatagtga
+>Query: 42 Target: 10952787 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaacagctattaatggtgtttaagtctacttccgcaactattc
+>Query: 42 Target: 11422560 %ID: 14/71 = 19.7183 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatggaggctcatgatgattaatcttaattgtcaacctgattgcactgagagatatccagata
+>Query: 42 Target: 11444573 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaaaactgaggctgggaggcatgcttcattaatctccaggtct
+>Query: 42 Target: 11656595 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcactgtcaacataacttgtgaccaaccacttatgaaacagctc
+>Query: 42 Target: 11876702 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcattacccatctcaaaaatggtgacaggatcaaagacaagatttctta
+>Query: 42 Target: 13163214 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaaaccgtggtgcacacctttggttttttttttttcaagacag
+>Query: 42 Target: 14022680 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaagttagatcaacagtttaaggcagttttggagtagcctgga
+>Query: 42 Target: 14724138 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcattatattgatttaaggctttatgttgttgctagttctttattatta
+>Query: 42 Target: 15897760 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaaagtcccctgtatatcttaaaatacattataatggatgcac
+>Query: 42 Target: 16629513 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagtattttgaattgacacttctcaagaatctttccttctcta
+>Query: 42 Target: 16766743 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatttacagttttctctttagcaatccctaaaacaagaacacataatg
+>Query: 42 Target: 16807517 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatcaattccagttgccatgtggtcattaaagtgtaaaatatgaagca
+>Query: 42 Target: 16814719 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagactcatagaaatggacagatcacggaatcagaaactaaac
+>Query: 42 Target: 16912020 %ID: 12/61 = 19.6721 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatgagtaaaagttattatctcataaataggaatagtaaaattgtaggtaaat
+>Query: 42 Target: 17507791 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcagtagctgctgttgagctcctgtcacagtcacactctcacaa
+>Query: 42 Target: 17657842 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcaatttcataacaatccctgcttgttatataagcccatttggt
+>Query: 42 Target: 17799454 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcattaggagactctcacaccatgtacaagactcctatttttcaaggta
+>Query: 42 Target: 17915457 %ID: 11/56 = 19.6429 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ttcaatatcatatataatgttcaaatattatcttctattacattgattatcttttg
+>Query: 89 Target: 4890825 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccaggaaagtgacatgcacaaggccagtaggtcggcaggctaa
+>Query: 89 Target: 6555519 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccttccacaggtgcttggggtctacatcagagacagcaggagg
+>Query: 89 Target: 10288851 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggcccctcttacttggttgtacatctgaggtagccgtggattgag
+>Query: 89 Target: 10514767 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccccactcttaatggcatcatctcttgtcatactgccccatca
+>Query: 89 Target: 10758232 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccccaggatgctctggtctctgcttttcagtgctgccattaca
+>Query: 89 Target: 11722218 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggcccaggaagaagcagggtgtaaatgaattagatattgattgct
+>Query: 89 Target: 12534239 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccctaggcccagcaataaatggccaacagagaatgaaccttta
+>Query: 89 Target: 12885149 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggcctccgggaggaaccgatcgagtttacgcccagcttctacaga
+>Query: 89 Target: 14759023 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccttgagtacatgtgcctcctgcctcaacctccctagcagatt
+>Query: 89 Target: 15231566 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccaattaattacacaccttgttcagctaagaaacagcctcctc
+>Query: 89 Target: 15302559 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggccttttttaaagccgaagacagggtttcactaagtcataggct
+>Query: 89 Target: 15497892 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggcccaagaggcacatactggccctaggccagtctgccaaccacc
+>Query: 89 Target: 16140224 %ID: 10/51 = 19.6078 Strand: +/->gi|16758993|ref|NC_003198.1| Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete genome
+ccagcaggcccagattgcctgcaaagtatttcctgcctccgagaagtttgc

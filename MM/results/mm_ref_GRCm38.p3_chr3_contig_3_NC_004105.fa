@@ -1,0 +1,76 @@
+>Query: 0 Target: 6057861 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+cacgactgtacatttattcagtctttctggaagtatatatttctgcaggtc
+>Query: 0 Target: 9733367 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+cacgactgtaatgtagaccaccaccagagcagcgccatagcgctggactgc
+>Query: 42 Target: 982962 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagaccacagtggcctcaaacttacagagatctgcttgcctctgtc
+>Query: 42 Target: 1254251 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaaatttggagctgtgatgaaaggatggaccatctagtgat
+>Query: 42 Target: 1863783 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagttcagaggtgagacagaaggaaggaccatccagagac
+>Query: 42 Target: 2188991 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctaagatgaaaggatggacaatccagagac
+>Query: 42 Target: 4305465 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagttgagatgaaaggatggaccatctagagac
+>Query: 42 Target: 4326153 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacccacagccagacattaccagagagtatgagaggttggaaca
+>Query: 42 Target: 4596292 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacctaaataatagagatcctaaatctattcaagtcaccaggca
+>Query: 42 Target: 5618883 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagataaaagtgtactgcttgatatctaagaatcaaaaat
+>Query: 42 Target: 5947624 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtgtgaagctgagactgaaggaatgaccatctggagac
+>Query: 42 Target: 6233090 %ID: 11/56 = 19.6429 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagactggatgccacagaccctcttggttccttgtctgcgtagaacgggtg
+>Query: 42 Target: 6860860 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaggtaagggggatgggatagggaaattgtgacatggaaact
+>Query: 42 Target: 7440142 %ID: 11/56 = 19.6429 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacttctcagttttgaatgaaagttgataaagtgcttttctggctctat
+>Query: 42 Target: 7694644 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaggagctctgggggtactggttagttcatattgttgttcca
+>Query: 42 Target: 7745633 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacctgaattgtctttataatattggaagacattaaaaggtttg
+>Query: 42 Target: 8087830 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctgagacaaaagaatggaccatctagagac
+>Query: 42 Target: 8146140 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctgagacaaaaggatggaccatctatagac
+>Query: 42 Target: 9430875 %ID: 10/51 = 19.6078 Strand: +/+>gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaaatgtggaacagagactgaagaaatgaccatccagagac
+>Query: 0 Target: 6057861 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+cacgactgtacatttattcagtctttctggaagtatatatttctgcaggtc
+>Query: 0 Target: 9733367 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+cacgactgtaatgtagaccaccaccagagcagcgccatagcgctggactgc
+>Query: 42 Target: 982962 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagaccacagtggcctcaaacttacagagatctgcttgcctctgtc
+>Query: 42 Target: 1254251 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaaatttggagctgtgatgaaaggatggaccatctagtgat
+>Query: 42 Target: 1863783 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagttcagaggtgagacagaaggaaggaccatccagagac
+>Query: 42 Target: 2188991 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctaagatgaaaggatggacaatccagagac
+>Query: 42 Target: 4305465 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagttgagatgaaaggatggaccatctagagac
+>Query: 42 Target: 4326153 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacccacagccagacattaccagagagtatgagaggttggaaca
+>Query: 42 Target: 4596292 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacctaaataatagagatcctaaatctattcaagtcaccaggca
+>Query: 42 Target: 5618883 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagataaaagtgtactgcttgatatctaagaatcaaaaat
+>Query: 42 Target: 5947624 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtgtgaagctgagactgaaggaatgaccatctggagac
+>Query: 42 Target: 6233090 %ID: 11/56 = 19.6429 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagactggatgccacagaccctcttggttccttgtctgcgtagaacgggtg
+>Query: 42 Target: 6860860 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaggtaagggggatgggatagggaaattgtgacatggaaact
+>Query: 42 Target: 7440142 %ID: 11/56 = 19.6429 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacttctcagttttgaatgaaagttgataaagtgcttttctggctctat
+>Query: 42 Target: 7694644 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaggagctctgggggtactggttagttcatattgttgttcca
+>Query: 42 Target: 7745633 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacctgaattgtctttataatattggaagacattaaaaggtttg
+>Query: 42 Target: 8087830 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctgagacaaaagaatggaccatctagagac
+>Query: 42 Target: 8146140 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaagtttggagctgagacaaaaggatggaccatctatagac
+>Query: 42 Target: 9430875 %ID: 10/51 = 19.6078 Strand: +/->gi|22164589|ref|NC_004105.1| Ectromelia virus, complete genome
+ttatagagacaaaatgtggaacagagactgaagaaatgaccatccagagac
